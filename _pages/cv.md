@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Fr.M.Eng., Computer Science,  Ecole Nationale Superieure des Mines de Nancy, 2019
+* Ph.D in Biometry AntiSpoofing for Speech and Handwriting, Le Mans University, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Assistant
+  * Inria Rennes
+  * Duties included: Experiments coding and execution for VR perception
+  * Supervisors: Dr Etienne Peillard and Anatole Lecuyer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring and Summer 2019: Data Scientist
+  * Orange Labs, Chatillon
+  * Duties included: Clustering algorithms, Business models workshop animations
+  * Supervisor: Pascale Bailly
+
+* 2019-2022: Researcher
+  * Orange Labs, Rennes
+  * Duties included: Developpement of Antispoofing Techniques for Handwriting and Speech biometrics
+  * Supervisor: Dr Gael Le Lan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: English/French Bilingual
+* Coding: Python/Matlab/Bash
+* Car Driving license, 50h+ on a Robin DR400-120
 
 Publications
 ======
