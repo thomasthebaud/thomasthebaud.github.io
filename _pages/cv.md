@@ -16,20 +16,27 @@ Education
 
 Work experience
 ======
-* Summer 2018: Research Assistant
-  * Inria Rennes
-  * Duties included: Experiments coding and execution for VR perception
-  * Supervisors: Dr Etienne Peillard and Anatole Lecuyer
+* 2022-2023: Post-doctoral fellow
+  * CLSP - Johns Hopkins University, Baltimore
+  * Duties included: Research on defenses against poisoning and adversarial attacks on speech systems, handwriting analysis, fairness, speech translation, etc. Mentorship of PhD students and undergrads, Grant writing, Teaching.
+  * Supervisor: Pr. Najim Dehak
+
+* 2019-2022: Researcher
+  * Orange Labs, Rennes
+  * Duties included: Developpement of Antispoofing Techniques for Handwriting and Speech biometrics
+  * Supervisor: Dr. Gael Le Lan
 
 * Spring and Summer 2019: Data Scientist
   * Orange Labs, Chatillon
   * Duties included: Clustering algorithms, Business models workshop animations
   * Supervisor: Pascale Bailly
 
-* 2019-2022: Researcher
-  * Orange Labs, Rennes
-  * Duties included: Developpement of Antispoofing Techniques for Handwriting and Speech biometrics
-  * Supervisor: Dr Gael Le Lan
+* Summer 2018: Research Assistant
+  * Inria, Rennes
+  * Duties included: Experiments coding and execution for VR perception
+  * Supervisors: Dr. Etienne Peillard and Pr. Anatole Lecuyer
+
+
   
 Skills
 ======
