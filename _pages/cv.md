@@ -42,7 +42,7 @@ Skills
 ======
 * Languages: English/French Bilingual
 * Coding: Python/Matlab/Bash
-* Car Driving license, 50h+ on a Robin DR400-120
+* Car Driving license, Flying: 50h+ on a Robin DR400-120
 
 Publications
 ======
