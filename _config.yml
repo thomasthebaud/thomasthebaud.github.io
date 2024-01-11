@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Thomas Thebaud"
   avatar           : "profile.png"
-  bio              : "Post-Doctoral Fellow in the CLSP.\nI'm currently working on adversarial and poisoning attacks against various speech systems, as well as handwriting analysis for neurogdegenerative diseases assessment. "
+  bio              : "Assistant Research Scientist in the CLSP.\nI'm currently working on adversarial and poisoning attacks against various speech systems, as well as handwriting analysis for neurogdegenerative diseases assessment. "
   location         : "Baltimore, MD"
   employer         : "CLSP"
   pubmed           : 
