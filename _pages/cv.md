@@ -42,7 +42,7 @@ Skills
 ======
 * Languages: English/French Bilingual
 * Coding: Python/Matlab/Bash
-* Car Driving license, Flying: 50h+ on a Robin DR400-120
+* Flying aircrafts: 50h+ on a Robin DR400-120
 
 Publications
 ======
@@ -65,4 +65,5 @@ Teaching and Mentorship experiences
 Service and leadership
 ======
 * Social Chair in the Post-doctoral association of Hopkins for the Homewood campus.
-* Reviewer for ICASSP 2024, LREC-COLING 2024
+* Reviewer for ICASSP 2024, LREC-COLING 2024, Interspeech 2024
+* Meta-Reviewer for Odyssey 2024
