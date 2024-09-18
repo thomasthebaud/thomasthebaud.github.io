@@ -1,5 +1,5 @@
 ---
-title: "Co-Instructor for Computational Modelling for Electrical and Computer Engineering (EN.520)"
+title: "Co-Instructor for Computational Modelling for Electrical and Computer Engineering (EN.520.123)"
 collection: teaching
 type: "Undergrad Course"
 venue: "Johns Hopkins University, ECE"
