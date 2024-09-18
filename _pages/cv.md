@@ -65,5 +65,7 @@ Teaching and Mentorship experiences
 Service and leadership
 ======
 * Social Chair in the Post-doctoral association of Hopkins for the Homewood campus.
-* Reviewer for ICASSP 2024, LREC-COLING 2024, Interspeech 2024
-* Meta-Reviewer for Odyssey 2024
+* Faculty supervisor of the Social Comittee of the CLSP
+* Reviewer for ICASSP 2024, LREC-COLING 2024, Interspeech 2024, ICASSP 2025
+* Session Chair for CISS 2023, Session Chair for Odyssey 2024
+* Meta-Reviewer and Organizing chair for Odyssey 2024
