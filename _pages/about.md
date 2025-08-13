@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently Assistant Research Scientist at the Center for Language and Speech Processing at Johns Hopkins University. I completed my Ph.D. in Antispoofing for Voice and Handwriting Biometrics, a collaborative effort between LIUM in Le Mans, France, and Orange Labs in Rennes, France. I am now based in Baltimore, Maryland, where I am engaged in a range of exciting projects related to speech and handwriting.
+I am currently an Assistant Research Scientist in the Department of Electrical and Computer Engineering at Johns Hopkins University. I earned my Ph.D. in Antispoofing for Voice and Handwriting Biometrics through a joint program between LIUM in Le Mans, France, and Orange Labs in Rennes, France. Now based in Baltimore, Maryland, I lead and contribute to a variety of projects at the intersection of speech and handwriting research.
 
-My research encompasses various areas, including the utilization of handwriting signals for the assessment of neurodegenerative diseases. Additionally, I focus on developing novel threat models and defenses to counteract poisoning attacks against Automatic Speech Recognition (ASR) systems, and adversarial attacks targeting speaker recognition systems. Recently I have been taking interest in speech translation systems, conversation summarization and emotion recognition systems.
+My work spans multiple areas, including the use of handwriting signals to assess neurodegenerative diseases, the design of novel threats and defenses against adversarial and backdoor attacks on speech systems, conversation summarization with multimodal large language models, and the development of emotion recognition systems.
 
-Furthermore, I am involved as a board member of the post-doctoral association, where I contribute to the organization of social and professional events for the benefit of all post-doctoral fellows at the Homewood campus.
+If you’re interested in collaborating or joining the lab for a research experience, please visit the “Join Us” tab!

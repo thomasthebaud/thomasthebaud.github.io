@@ -3,7 +3,7 @@ title: "Co-Instructor for Machine Learning for Signal Processing (EN.520.612/EN.
 collection: teaching
 type: "400/600 Course"
 venue: "Johns Hopkins University, ECE"
-date: 2024-09-01
+date: 2025-09-01
 location: "Baltimore, MD"
 ---
 

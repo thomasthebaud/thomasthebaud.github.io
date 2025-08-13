@@ -1,13 +1,16 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=5wgj-vYAAAAJ&hl=fr
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching and Mentorship"
+  - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /resume/
+
+  - title: "Join Us!"
+    url: /join/
