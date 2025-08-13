@@ -1,5 +1,5 @@
 ---
-title: "TA for Machine Learning"
+title: "TA for Machine Learning Introduction"
 collection: teaching
 type: "Master course"
 venue: "ENSIM"

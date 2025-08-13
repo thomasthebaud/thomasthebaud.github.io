@@ -1,5 +1,5 @@
 ---
-title: "Instructor for Explore Machine Learning solutions for Security (EN.500.111.03 & EN.500.111.22)"
+title: "Explore Machine Learning solutions for Security (EN.500.111.03 & EN.500.111.22)"
 collection: teaching
 type: "Undergrad Course"
 venue: "Johns Hopkins University, ECE"

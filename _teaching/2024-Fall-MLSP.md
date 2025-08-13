@@ -1,5 +1,5 @@
 ---
-title: "Co-Instructor for Machine Learning for Signal Processing (EN.520.612/EN.520.412)"
+title: " Machine Learning for Signal Processing (EN.520.612/EN.520.412)"
 collection: teaching
 type: "400/600 Course"
 venue: "Johns Hopkins University, ECE"

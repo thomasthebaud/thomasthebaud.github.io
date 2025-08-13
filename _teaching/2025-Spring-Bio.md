@@ -1,5 +1,5 @@
 ---
-title: "Instructor for Biometric Systems: Techniques, Applications, and Ethics (EN.520.612/EN.520.412)"
+title: "AI for Biometric Systems: Techniques, Applications, and Ethics (EN.520.612/EN.520.412)"
 collection: teaching
 type: "400/600 Course"
 venue: "Johns Hopkins University, ECE"
@@ -20,4 +20,4 @@ By the end of this course, students will:
 -	Analyze the application of biometrics in commercial and forensic fields.
 -	Gain awareness of biometric technologies' legal, ethical, and moral considerations.
 
-This course will be continued in the Spring 2026.
+This course will be revised and continued in the Spring 2026.
