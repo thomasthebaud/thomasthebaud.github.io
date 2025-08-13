@@ -7,7 +7,7 @@ redirect_from:
   - /join
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Research in the ECE department - Johns Hopkins University
 ======

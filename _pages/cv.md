@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Education
 ======
@@ -50,7 +50,8 @@ Skills
 
 Publications
 ======
-  <url>https://scholar.google.com/citations?user=5wgj-vYAAAAJ&hl=fr</url>
+You can find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
   
 Talks
 ======
