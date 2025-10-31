@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Thomas Thebaud"
   avatar           : "profile.png"
-  bio              : "Assistant Research Scientist in the Johns Hopkins University, I have an appointment in the ECE department, and I am affiliated to both the Human Language Technology Center of Excellence (HLT-COE) and the Center for Language and Speech Processing (CLSP). I'm currently working on speech systems vulnerabilities, speaker characterization and emotion recognition, as well as conversation smmarization using Speech LLMs. "
+  bio              : "Assistant Research Professor in the Johns Hopkins University, I have an appointment in the ECE department, and I am affiliated to both HLT-COE and CLSP. I'm currently working on speech systems vulnerabilities, speaker characterization and emotion recognition, as well as conversation smmarization using Speech LLMs."
   location         : "Baltimore, MD"
   employer         : "ECE Department, JHU"
   pubmed           : 
