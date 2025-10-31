@@ -16,6 +16,10 @@ Education
 
 Work experience
 ======
+* 2025-Now: Assistant Research Professor
+  * ECE department and CLSP - Johns Hopkins University, Baltimore
+  * Duties included: Research on defenses against poisoning and adversarial attacks on speech systems, speech emotion recognition, voice anonymization, and summarization using Speech LLMs, as well as Mentorship of PhD students and undergrads, Grant writing, Teaching.
+
 * 2023-2025: Assistant Research Scientist
   * ECE department and CLSP - Johns Hopkins University, Baltimore
   * Duties included: Research on defenses against poisoning and adversarial attacks on speech systems, speech emotion recognition, voice anonymization, and summarization using Speech LLMs, as well as Mentorship of PhD students and undergrads, Grant writing, Teaching.

@@ -3,7 +3,7 @@ title: "AI for Biometric Systems: Techniques, Applications, and Ethics (EN.520.6
 collection: teaching
 type: "400/600 Course"
 venue: "Johns Hopkins University, ECE"
-date: 2024-01-01
+date: 2025-01-01
 location: "Baltimore, MD"
 ---
 
