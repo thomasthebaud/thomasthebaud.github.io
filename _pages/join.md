@@ -12,7 +12,6 @@ redirect_from:
 # Recruitments on Hold / Recrutements temporairement suspendus
 
 ## [EN] Research opportunities in speech technologies and security — AMIAD, Palaiseau
-======
 _french below_ <br>
 I am currently transitioning from Johns Hopkins University to AMIAD on the Palaiseau plateau. I will be glad to welcome motivated students from Saclay and Palaiseau’s engineering schools and universities who are interested in working on research projects in speech technologies, artificial intelligence, and security.
 
@@ -25,7 +24,6 @@ Please feel free to contact me in LinkedIn, or check back later for updated oppo
 <br>
 
 ## [FR] Opportunités de recherche en technologies de la parole et sécurité — AMIAD, Palaiseau
-=====
 Je suis actuellement en transition de l’Université Johns Hopkins vers AMIAD, sur le plateau de Palaiseau. Je serai ravi d’accueillir des étudiantes et étudiants motivés issus des écoles d’ingénieurs et universités de Saclay et de Palaiseau, intéressés par des projets de recherche en technologies de la parole, intelligence artificielle et sécurité.
 
 Les thématiques possibles incluent les techniques d’anonymisation de la parole, la détection de deepfakes, les grands modèles de langage appliqués à la parole, la reconnaissance du locuteur, ainsi que des questions liées à la confidentialité, la robustesse et la fiabilité du traitement automatique de la parole.
