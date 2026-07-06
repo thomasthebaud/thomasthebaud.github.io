@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Research Professor in the Department of Electrical and Computer Engineering at Johns Hopkins University. I earned my Ph.D. in Antispoofing for Voice and Handwriting Biometrics through a joint program between LIUM in Le Mans, France, and Orange Labs in Rennes, France. Now based in Baltimore, Maryland, I lead and contribute to a variety of projects at the intersection of speech and handwriting research.
+I am currently transitioning from my position as an Assistant Research Professor in the Department of Electrical and Computer Engineering at Johns Hopkins University to AMIAD, on the Palaiseau plateau in France. I earned my Ph.D. in antispoofing for voice and handwriting biometrics through a joint program between LIUM in Le Mans, France, and Orange Labs in Rennes, France.
 
-My work spans multiple areas, including the use of handwriting signals to assess neurodegenerative diseases, the design of novel threats and defenses against adversarial and backdoor attacks on speech systems, conversation summarization with multimodal large language models, and the development of emotion recognition systems.
+My research focuses on speech technologies, artificial intelligence, and security, with an emphasis on speech anonymization techniques, deepfake detection, speech-aware large language models, and speaker recognition. More broadly, my work explores how speech and related human signals can be processed, protected, and interpreted in trustworthy and privacy-preserving ways.
 
-If you’re interested in collaborating or joining the lab for a research experience, please visit the “Join Us” tab!
+I remain open to national and international research collaborations. For students interested in future research opportunities, please visit the “Join Us” tab for the latest information.

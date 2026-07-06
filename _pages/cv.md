@@ -16,24 +16,28 @@ Education
 
 Work experience
 ======
-* 2025-Now: Assistant Research Professor
-  * ECE department and CLSP - Johns Hopkins University, Baltimore
-  * Duties included: Research on defenses against poisoning and adversarial attacks on speech systems, speech emotion recognition, voice anonymization, and summarization using Speech LLMs, as well as Mentorship of PhD students and undergrads, Grant writing, Teaching.
+* Starting September 2026: Chargé de Recherche
+  * AMIAD (Ministerial Agency for Defence AI)/ École doctorale IP Paris, Palaiseau, France
+  * Duties included: Research on defenses against poisoning and adversarial attacks on speech systems, voice anonymization, deepfake detection, and Speech LLMs robustness, as well as Mentorship of PhD and Master's students.
+
+
+* 2025-2026: Assistant Research Professor
+  * ECE department / Geriatrics & Engineering Institute / CLSP - Johns Hopkins University, Baltimore
+  * Duties included: Research on defenses against poisoning and adversarial attacks on speech systems, vocal tics detection in teenagers, voice anonymization, interpersonal relationships studies, and speech processing using Speech LLMs, as well as Mentorship of PhD, Master's and undergrad students, Grant writing, Teaching.
 
 * 2023-2025: Assistant Research Scientist
   * ECE department and CLSP - Johns Hopkins University, Baltimore
-  * Duties included: Research on defenses against poisoning and adversarial attacks on speech systems, speech emotion recognition, voice anonymization, and summarization using Speech LLMs, as well as Mentorship of PhD students and undergrads, Grant writing, Teaching.
-  * Working in Pr. Najim Dehak's Lab.
+  * Duties included: Research on defenses against poisoning and adversarial attacks on speech systems, speech emotion recognition, voice anonymization, and summarization using Speech LLMs, as well as Mentorship of PhD, Master's and undergrad students, Grant writing, Teaching.
 
 * 2022-2023: Post-doctoral fellow
   * CLSP - Johns Hopkins University, Baltimore
-  * Duties included: Research on defenses against poisoning and adversarial attacks on speech systems, handwriting analysis, fairness, speech translation, etc. Mentorship of PhD students and undergrads, Grant writing, Teaching.
+  * Duties included: Research on defenses against poisoning and adversarial attacks on speech systems, handwriting analysis, fairness, speech translation, etc. Mentorship of PhD, Master's and undergrad students, Grant writing, Teaching.
   * Supervisor: Pr. Najim Dehak
 
 * 2019-2022: Researcher
   * Orange Labs, Rennes
-  * Duties included: Developpement of Antispoofing Techniques for Handwriting and Speech biometrics
-  * Supervisor: Dr. Gael Le Lan
+  * Duties included: Developpement of Antispoofing Techniques for Handwriting and Speech biometrics, Mentorship of Master's students
+  * Supervisors: Dr. Gael Le Lan and Pr. Anthony Larcher
 
 * Spring and Summer 2019: Data Scientist
   * Orange Labs, Chatillon

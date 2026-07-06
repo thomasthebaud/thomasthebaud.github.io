@@ -9,13 +9,29 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-Research in the ECE department - Johns Hopkins University
+# Recruitments on Hold / Recrutements temporairement suspendus
+
+## [EN] Research opportunities in speech technologies and security — AMIAD, Palaiseau
 ======
-- Are you currently a Johns Hopkins undergraduate or master’s student? 
-- Are you looking to dive into hands-on research at the intersection of AI, health, or security? 
-- Do you speak English? 
-- Do you speak Python?
+_french below_ <br>
+I am currently transitioning from Johns Hopkins University to AMIAD on the Palaiseau plateau. I will be glad to welcome motivated students from Saclay and Palaiseau’s engineering schools and universities who are interested in working on research projects in speech technologies, artificial intelligence, and security.
 
-Our lab is seeking motivated students to join ongoing projects spanning a wide range of exciting topics. You could work on medical applications such as detecting tics, analyzing mood disorders, or assessing neurodegenerative diseases; help secure speech systems against deepfakes, adversarial attacks, and backdoor threats; or explore how emotions and speaker traits evolve over time. Whether your interests lie in machine learning, signal processing, health technologies, or security, we offer opportunities to contribute to cutting-edge research with real-world impact. 
+Potential topics include speech anonymization techniques, deepfake detection, speech-aware large language models, speaker recognition, and related questions around privacy, robustness, and trustworthy speech processing.
 
-If you are interested, please send your resume and transcript at *tthebau1@jhu.edu* and we'll get back to you ASAP! 
+I remain open to national and international research collaborations, but student recruitment is currently on hold and is expected to resume later in 2026.
+
+Please feel free to contact me in LinkedIn, or check back later for updated opportunities.
+
+<br>
+
+## [FR] Opportunités de recherche en technologies de la parole et sécurité — AMIAD, Palaiseau
+=====
+Je suis actuellement en transition de l’Université Johns Hopkins vers AMIAD, sur le plateau de Palaiseau. Je serai ravi d’accueillir des étudiantes et étudiants motivés issus des écoles d’ingénieurs et universités de Saclay et de Palaiseau, intéressés par des projets de recherche en technologies de la parole, intelligence artificielle et sécurité.
+
+Les thématiques possibles incluent les techniques d’anonymisation de la parole, la détection de deepfakes, les grands modèles de langage appliqués à la parole, la reconnaissance du locuteur, ainsi que des questions liées à la confidentialité, la robustesse et la fiabilité du traitement automatique de la parole.
+
+Je reste ouvert aux collaborations de recherche nationales et internationales, cependant, les recrutements étudiants sont actuellement suspendus et devraient reprendre plus tard en 2026.
+
+
+N’hésitez pas à me contacted sur LinkedIn ou revenir consulter cette page ultérieurement pour de nouvelles opportunités.
+
