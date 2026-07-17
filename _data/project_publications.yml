@@ -1,0 +1,263 @@
+# Generated from citations(1).csv. Published venues take precedence over arXiv records.
+
+# ADPIE
+- project: ADPIE
+  title: "Cross-Corpus and Cross-domain Handwriting Assessment of NeuroDegenerative Diseases via Time-Series-to-Image Conversion"
+  venue: "EMBC"
+  year: 2026
+  url: "https://arxiv.org/abs/2509.16474"
+
+# BABYLON
+- project: BABYLON
+  title: "SoloSpeech: Enhancing Intelligibility and Quality in Target Speech Extraction through a Cascaded Generative Pipeline"
+  venue: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+  year: 2026
+- project: BABYLON
+  title: "DiT-Flow: Speech Enhancement Robust to Multiple Distortions Based on Flow Matching in Latent Space and Diffusion Transformers"
+  venue: "Arxiv Preprint"
+  year: 2026
+  url: "https://arxiv.org/abs/2603.21608"
+- project: BABYLON
+  title: "ReFESS-QI: Reference-Free Evaluation for Speech Separation with Joint Quality and Intelligibility Scoring"
+  venue: "Arxiv Preprint"
+  year: 2025
+  url: "https://arxiv.org/abs/2510.21014"
+- project: BABYLON
+  title: "Noise-Robust Speech Separation with Fast Generative Correction"
+  venue: "Interspeech"
+  year: 2024
+
+# EDART
+- project: EDART
+  title: "Scaling Multi-Talker ASR with Speaker-Agnostic Activity Streams"
+  venue: "IEEE ICASSP"
+  year: 2026
+- project: EDART
+  title: "Speaker Verification with Speech-Aware LLMs: Evaluation and Augmentation"
+  venue: "Interspeech"
+  year: 2026
+- project: EDART
+  title: "Beyond Transcripts: Iterative Peer-Editing with Audio Unlocks High-Quality Human Summaries of Conversational Speech"
+  venue: "Arxiv Preprint"
+  year: 2026
+  url: "https://arxiv.org/abs/2605.17652"
+- project: EDART
+  title: "Demographic Attributes Prediction from Speech Using WavLM Embeddings"
+  venue: "CISS"
+  year: 2025
+- project: EDART
+  title: "Enhancing Dialogue Annotation with Speaker Characteristics Leveraging a Frozen LLM"
+  venue: "IEEE ASRU"
+  year: 2025
+- project: EDART
+  title: "Paired by the Teacher: Turning Unpaired Data into High-Fidelity Pairs for Low-Resource Text Generation"
+  venue: "EMNLP"
+  year: 2025
+- project: EDART
+  title: "Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization"
+  venue: "IEEE ASRU"
+  year: 2025
+
+# FAI
+- project: FAI
+  title: "FaiST: A Benchmark Dataset for Fairness in Speech Technology"
+  venue: "ISCA"
+  year: 2025
+- project: FAI
+  title: "Unveiling Performance Bias in ASR Systems: A Study on Gender, Age, Accent, and More"
+  venue: "IEEE ICASSP"
+  year: 2025
+- project: FAI
+  title: "Finding Spoken Identifications: Using GPT-4 Annotation for an Efficient and Fast Dataset Creation Pipeline"
+  venue: "LREC-COLING"
+  year: 2024
+- project: FAI
+  title: "Model-Based Fairness Metric for Speaker Verification"
+  venue: "IEEE ASRU"
+  year: 2023
+
+# GARD
+- project: GARD
+  title: "Clean Label Attacks against SLU Systems"
+  venue: "IEEE SLT"
+  year: 2024
+- project: GARD
+  title: "Clustering Unsupervised Representations as Defense against Poisoning Attacks on Speech Commands Classification System"
+  venue: "IEEE ASRU"
+  year: 2023
+- project: GARD
+  title: "Joint Energy-Based Model for Robust Speech Classification System against Dirty-Label Backdoor Poisoning Attacks"
+  venue: "IEEE ASRU"
+  year: 2023
+
+# NLS
+- project: NLS
+  title: "Detecting Neurodegenerative Diseases Using Frame-Level Handwriting Embeddings"
+  venue: "IEEE ICASSP"
+  year: 2025
+- project: NLS
+  title: "Interpretable Features for the Assessment of Neurodegenerative Diseases through Handwriting Analysis"
+  venue: "IEEE Journal of Biomedical and Health Informatics"
+  year: 2025
+- project: NLS
+  title: "Advancing Alzheimer's Disease Detection via Multimodal Fusion of Speech and Eye Movement Data"
+  venue: "IEEE EMBC"
+  year: 2025
+- project: NLS
+  title: "Sampling Rate Guidelines for Eye-Tracking in Neurological Disorders: A Task-Specific Multimetric Analysis"
+  venue: "IEEE EMBC"
+  year: 2025
+- project: NLS
+  title: "Multimodal Characterization of Alzheimer's Disease Using Speech, Eye Movement, and Handwriting"
+  venue: "Alzheimer's & Dementia"
+  year: 2024
+- project: NLS
+  title: "Cognitive Assessment through Writing Tasks"
+  venue: "Alzheimer's & Dementia"
+  year: 2024
+- project: NLS
+  title: "Analyzing Attention Focus in the Cookie Theft Picture Description Task Using Word Alignment"
+  venue: "Alzheimer's & Dementia"
+  year: 2024
+- project: NLS
+  title: "Dynamics of Handwriting for Cognitive Assessment"
+  venue: "Alzheimer's & Dementia"
+  year: 2024
+- project: NLS
+  title: "Consistent Explainable Features for Alzheimer's Disease Assessment through Handwriting"
+  venue: "Alzheimer's & Dementia"
+  year: 2024
+- project: NLS
+  title: "Discovering Invariant Patterns of Cognitive Decline via an Automated Analysis of the Cookie Thief Picture Description Task"
+  venue: "Odyssey"
+  year: 2024
+- project: NLS
+  title: "Exploring the Complementary Nature of Speech and Eye Movements for Profiling Neurological Disorders"
+  venue: "Interspeech"
+  year: 2024
+- project: NLS
+  title: "Unveiling Early Signs of Parkinson's Disease via a Longitudinal Analysis of Celebrity Speech Recordings"
+  venue: "npj Parkinson's Disease"
+  year: 2024
+- project: NLS
+  title: "Technology and Dementia Preconference"
+  venue: "Alzheimer's & Dementia"
+  year: 2024
+- project: NLS
+  title: "Interpretable Speech Features vs. DNN Embeddings: What to Use in the Automatic Assessment of Parkinson's Disease in Multi-Lingual Scenarios"
+  venue: "Computers in Biology and Medicine"
+  year: 2023
+- project: NLS
+  title: "Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech across Corpora?"
+  venue: "Interspeech"
+  year: 2023
+- project: NLS
+  title: "Evaluation of Interpretable Speech Biomarkers for Monitoring Alzheimer's Disease and Mild Cognitive Impairment Progression"
+  venue: "Alzheimer's & Dementia"
+  year: 2023
+- project: NLS
+  title: "Handwriting Characteristics Analysis for Alzheimer's Disease and Mild Cognitive Impairments Assessment"
+  venue: "Alzheimer's & Dementia"
+  year: 2023
+
+# RED
+- project: RED
+  title: "Unraveling Adversarial Examples against Speaker Identification—Techniques for Attack Detection and Victim Model Classification"
+  venue: "Odyssey"
+  year: 2024
+
+# SHADOW
+- project: SHADOW
+  title: "MaskVCT: Masked Voice Codec Transformer for Zero-Shot Voice Conversion with Increased Controllability via Multiple Guidances"
+  venue: "IEEE ICASSP"
+  year: 2026
+- project: SHADOW
+  title: "CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech"
+  venue: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+  year: 2026
+- project: SHADOW
+  title: "Reconstruct! Don't Encode: Self-Supervised Representation Reconstruction Loss for High-Intelligibility and Low-Latency Streaming Neural Audio Codec"
+  venue: "Arxiv Preprint"
+  year: 2026
+  url: "https://arxiv.org/abs/2603.05887"
+- project: SHADOW
+  title: "Can LLMs Help Localize Fake Words in Partially Fake Speech?"
+  venue: "Arxiv Preprint"
+  year: 2026
+  url: "https://arxiv.org/abs/2603.11205"
+- project: SHADOW
+  title: "ProPS: Prompted Profile Synthesis for Natural Language-Conditioned Speaker Embedding Distributions"
+  venue: "Arxiv Preprint"
+  year: 2026
+  url: "https://arxiv.org/abs/2607.05276"
+- project: SHADOW
+  title: "Vox-Profile: A Speech Foundation Model Benchmark for Characterizing Diverse Speaker and Speech Traits"
+  venue: "Arxiv Preprint"
+  year: 2025
+  url: "https://arxiv.org/abs/2505.14648"
+- project: SHADOW
+  title: "Rhythm Features for Speaker Identification"
+  venue: "Arxiv Preprint"
+  year: 2025
+  url: "https://arxiv.org/abs/2506.06834"
+- project: SHADOW
+  title: "PPX-Anon: Prosody, Pitch and X-Vectors for De-Anonymization; Our Submission to the Voice Attacker Challenge 2024"
+  venue: "SPSC"
+  year: 2025
+- project: SHADOW
+  title: "The SHADOW Team Submission to the ASVspoof 2024 Challenge"
+  venue: "ASVspoof Workshop"
+  year: 2024
+
+# SPEAR
+- project: SPEAR
+  title: "StanceBench: A Benchmark for Audio LLM-Based Interpersonal Stance Evaluation from Speech"
+  venue: "Interspeech"
+  year: 2026
+- project: SPEAR
+  title: "TRACE: Temporal Relationship-Aware Conversational Entrainment Detection in Dyadic Speech"
+  venue: "Arxiv Preprint"
+  year: 2026
+  url: "https://arxiv.org/abs/2606.30543"
+- project: SPEAR
+  title: "Reference-Based Prosody and Rhythm Evaluation for Spoken Dialogue Systems"
+  venue: "Arxiv Preprint"
+  year: 2026
+  url: "https://arxiv.org/abs/2606.31055"
+- project: SPEAR
+  title: "TurnNat: Automatic Evaluation of Turn-Taking Naturalness in Dyadic Spoken Dialogue"
+  venue: "Arxiv Preprint"
+  year: 2026
+  url: "https://arxiv.org/abs/2607.01345"
+- project: SPEAR
+  title: "SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models"
+  venue: "Arxiv Preprint"
+  year: 2026
+  url: "https://arxiv.org/abs/2607.05365"
+
+# Le Mans University thesis project
+- project: Thesis
+  title: "Attaques par reconstruction de données biométriques comportementales à l'aide d'alignements d'embeddings"
+  venue: "PhD Dissertation, Le Mans University"
+  year: 2022
+- project: Thesis
+  title: "Supervised and Unsupervised Alignments for Spoofing Behavioral Biometrics"
+  venue: "Arxiv Preprint"
+  year: 2024
+  url: "https://arxiv.org/abs/2408.08918"
+- project: Thesis
+  title: "On the Invertibility of a Voice Privacy System Using Embedding Alignment"
+  venue: "IEEE ASRU"
+  year: 2021
+- project: Thesis
+  title: "Spoofing Speaker Verification with Voice Style Transfer and Reconstruction Loss"
+  venue: "IEEE WIFS"
+  year: 2021
+- project: Thesis
+  title: "Handwritten Digits Reconstruction from Unlabelled Embeddings"
+  venue: "IEEE ICASSP"
+  year: 2021
+- project: Thesis
+  title: "Unsupervised Labelling of Stolen Handwritten Digit Embeddings with Density Matching"
+  venue: "International Conference on Applied Cryptography and Network Security"
+  year: 2020

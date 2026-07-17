@@ -18,22 +18,28 @@ author_profile: true
 </div>
 
 <div class="teaching-tabs__panel" id="amiad-projects" role="tabpanel" aria-labelledby="amiad-projects-tab">
+  <div class="project-card project-card--empty">
+    <p>Projects coming soon.</p>
+  </div>
+</div>
+
+<div class="teaching-tabs__panel" id="jhu-projects" role="tabpanel" aria-labelledby="jhu-projects-tab" hidden>
   <article class="project-card">
     <header class="project-card__header">
       <h2>NLS: Neurological Signals</h2>
       <span class="project-card__years">Since 2019</span>
     </header>
     <p>NeuroLogical signals for neurodegenerative disease detection and severity assessment using speech, eye movements, handwriting, and gait.</p>
+    {% include project-publications.html project="NLS" %}
   </article>
-</div>
 
-<div class="teaching-tabs__panel" id="jhu-projects" role="tabpanel" aria-labelledby="jhu-projects-tab" hidden>
   <article class="project-card">
     <header class="project-card__header">
       <h2>SPEAR</h2>
       <span class="project-card__years">2025–2026</span>
     </header>
     <p>Evaluation of speech-to-speech large language models in conversational settings.</p>
+    {% include project-publications.html project="SPEAR" %}
   </article>
 
   <article class="project-card">
@@ -42,6 +48,7 @@ author_profile: true
       <span class="project-card__years">Since 2023</span>
     </header>
     <p>Spoken conversation analysis, speaker characterization, and emotional state modeling using audio foundation models and multimodal large language models.</p>
+    {% include project-publications.html project="EDART" %}
   </article>
 
   <article class="project-card">
@@ -50,6 +57,7 @@ author_profile: true
       <span class="project-card__years">2024–2027</span>
     </header>
     <p>Voice conversion for speech anonymization.</p>
+    {% include project-publications.html project="SHADOW" %}
   </article>
 
   <article class="project-card">
@@ -58,6 +66,7 @@ author_profile: true
       <span class="project-card__years">2024–2025</span>
     </header>
     <p>Creation of portable equipment to record numerical biomarkers for neurodegenerative diseases from speech, eye movements, and handwriting.</p>
+    {% include project-publications.html project="ADPIE" %}
   </article>
 
   <article class="project-card">
@@ -66,6 +75,7 @@ author_profile: true
       <span class="project-card__years">2024–2025</span>
     </header>
     <p>Research on unsupervised source separation in noisy and far-field conditions.</p>
+    {% include project-publications.html project="BABYLON" %}
   </article>
 
   <article class="project-card">
@@ -74,6 +84,7 @@ author_profile: true
       <span class="project-card__years">2022–2024</span>
     </header>
     <p>Improving the robustness of image, speech, and video processing algorithms against adversarial and poisoning attacks.</p>
+    {% include project-publications.html project="GARD" %}
   </article>
 
   <article class="project-card">
@@ -82,6 +93,7 @@ author_profile: true
       <span class="project-card__years">2022–2024</span>
     </header>
     <p>Reverse engineering adversarial attacks against speech processing systems.</p>
+    {% include project-publications.html project="RED" %}
   </article>
 
   <article class="project-card">
@@ -90,6 +102,7 @@ author_profile: true
       <span class="project-card__years">2022–2025</span>
     </header>
     <p>Study of biases in speech processing algorithms, measurement of these biases, and development of balancing solutions.</p>
+    {% include project-publications.html project="FAI" %}
   </article>
 </div>
 
@@ -100,6 +113,7 @@ author_profile: true
       <span class="project-card__years">2019–2022</span>
     </header>
     <p>Research on spoofing attacks using behavioral biometric data reconstruction and statistical alignment methods.</p>
+    {% include project-publications.html project="Thesis" %}
   </article>
 </div>
 

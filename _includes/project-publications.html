@@ -1,0 +1,16 @@
+{% assign project_publications = site.data.project_publications | where: "project", include.project %}
+{% if project_publications.size > 0 %}
+  <h3 class="project-card__publications-title">Related publications</h3>
+  <ul class="project-card__publications">
+    {% for publication in project_publications %}
+      <li>
+        {% if publication.url %}
+          <a href="{{ publication.url }}">{{ publication.title }}</a>
+        {% else %}
+          {{ publication.title }}
+        {% endif %}
+        — <i>{{ publication.venue }}</i>, {{ publication.year }}
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}

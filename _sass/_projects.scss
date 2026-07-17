@@ -29,6 +29,23 @@
   white-space: nowrap;
 }
 
+.project-card__publications-title {
+  margin: 1rem 0 0.35rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid $border-color;
+  font-size: 0.9em;
+}
+
+.project-card__publications {
+  margin: 0;
+  padding-left: 1.25rem;
+  font-size: 0.82em;
+
+  li {
+    margin-bottom: 0.35rem;
+  }
+}
+
 .project-card--empty {
   color: $primary-color;
   text-align: center;
