@@ -295,3 +295,40 @@
   venue: "International Conference on Applied Cryptography and Network Security"
   year: 2020
   url: "https://link.springer.com/chapter/10.1007/978-3-030-61638-0_30"
+
+# Research collaborations
+- project: ETS
+  title: "Multi-Target Backdoor Attacks Against Speaker Recognition"
+  venue: "IEEE ASRU"
+  year: 2025
+  url: "https://ieeexplore.ieee.org/document/11434705/"
+- project: ETS
+  title: "Backdoor Attacks Against Speech Language Models"
+  venue: "Arxiv Preprint"
+  year: 2025
+  url: "https://arxiv.org/abs/2510.01157"
+- project: AGH
+  title: "End-to-End Neural Speaker Diarization With Non-Autoregressive Attractors"
+  venue: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+  year: 2024
+  url: "https://ieeexplore.ieee.org/document/10629182/"
+- project: AGH
+  title: "Joint Diarization and Separation Using SepFormer With Non-Autoregressive Attractors"
+  venue: "IEEE Signal Processing Letters"
+  year: 2025
+  url: "https://ieeexplore.ieee.org/document/11083894/"
+- project: Technion
+  title: "Multimodal Emotion Diarization: Frame-Wise Integration of Text and Audio Representations"
+  venue: "Interspeech"
+  year: 2025
+  url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5wgj-vYAAAAJ&cstart=20&pagesize=80&citation_for_view=5wgj-vYAAAAJ:M3NEmzRMIkIC"
+- project: UT Dallas
+  title: "Odyssey 2024-Speech Emotion Recognition Challenge: Dataset, Baseline Framework, and Results"
+  venue: "Odyssey"
+  year: 2024
+  url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5wgj-vYAAAAJ&citation_for_view=5wgj-vYAAAAJ:Zph67rFs4hoC"
+- project: UT Dallas
+  title: "The Interspeech 2025 Challenge on Speech Emotion Recognition in Naturalistic Conditions"
+  venue: "Interspeech"
+  year: 2025
+  url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5wgj-vYAAAAJ&citation_for_view=5wgj-vYAAAAJ:bEWYMUwI8FkC"
