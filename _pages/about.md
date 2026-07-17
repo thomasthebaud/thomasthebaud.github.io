@@ -13,3 +13,5 @@ I am currently transitioning from my position as an Assistant Research Professor
 My research focuses on speech technologies, artificial intelligence, and security, with an emphasis on speech anonymization techniques, deepfake detection, speech-aware large language models, and speaker recognition. More broadly, my work explores how speech and related human signals can be processed, protected, and interpreted in trustworthy and privacy-preserving ways.
 
 I remain open to national and international research collaborations. For students interested in future research opportunities, please visit the “Join Us” tab for the latest information.
+
+(Updated July 2026)
