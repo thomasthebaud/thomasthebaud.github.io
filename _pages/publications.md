@@ -18,7 +18,9 @@ You can find my complete publication record on [my Google Scholar profile](https
 - **2024** — [A Phonetic Analysis of Speaker Verification Systems through Phoneme Selection and Integrated Gradients](https://www.isca-archive.org/odyssey_2024/thebaud24_odyssey.html) *(Odyssey)*
 - **2023** — Clustering Unsupervised Representations as Defense against Poisoning Attacks on Speech Commands Classification System *(IEEE ASRU)*
 - **2023** — [Handwriting Characteristics Analysis for Alzheimer's Disease and Mild Cognitive Impairments Assessment](https://doi.org/10.1002/alz.082245) *(Alzheimer's & Dementia)*
+
 ---
+
 - **2022** — [Attaques par reconstruction de données biométriques comportementales à l’aide d’alignements d’embeddings](https://dblp.org/rec/phd/hal/Thebaud22) *(PhD dissertation, Le Mans University)*
 - **2022** — [Supervised and Unsupervised Alignments for Spoofing Behavioral Biometrics](https://arxiv.org/abs/2408.08918) *(Arxiv Preprint)*
 - **2021** — On the Invertibility of a Voice Privacy System Using Embedding Alignment *(IEEE ASRU)*

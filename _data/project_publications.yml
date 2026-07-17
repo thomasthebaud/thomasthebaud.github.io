@@ -5,7 +5,6 @@
   title: "Cross-Corpus and Cross-domain Handwriting Assessment of NeuroDegenerative Diseases via Time-Series-to-Image Conversion"
   venue: "EMBC"
   year: 2026
-  url: "https://arxiv.org/abs/2509.16474"
 
 # BABYLON
 - project: BABYLON
@@ -26,12 +25,14 @@
   title: "Noise-Robust Speech Separation with Fast Generative Correction"
   venue: "Interspeech"
   year: 2024
+  url: "https://www.isca-archive.org/interspeech_2024/wang24i_interspeech.html"
 
 # EDART
 - project: EDART
   title: "Scaling Multi-Talker ASR with Speaker-Agnostic Activity Streams"
   venue: "IEEE ICASSP"
   year: 2026
+  url: "https://ieeexplore.ieee.org/abstract/document/11461880"
 - project: EDART
   title: "Speaker Verification with Speech-Aware LLMs: Evaluation and Augmentation"
   venue: "Interspeech"
@@ -45,14 +46,17 @@
   title: "Demographic Attributes Prediction from Speech Using WavLM Embeddings"
   venue: "CISS"
   year: 2025
+  url: "https://ieeexplore.ieee.org/document/10944678/"
 - project: EDART
   title: "Enhancing Dialogue Annotation with Speaker Characteristics Leveraging a Frozen LLM"
   venue: "IEEE ASRU"
   year: 2025
+  url: "https://ieeexplore.ieee.org/document/11434755/"
 - project: EDART
   title: "Paired by the Teacher: Turning Unpaired Data into High-Fidelity Pairs for Low-Resource Text Generation"
   venue: "EMNLP"
   year: 2025
+  url: "https://aclanthology.org/2025.emnlp-main.1030/"
 - project: EDART
   title: "Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization"
   venue: "IEEE ASRU"
@@ -63,6 +67,7 @@
   title: "FaiST: A Benchmark Dataset for Fairness in Speech Technology"
   venue: "ISCA"
   year: 2025
+  url: "https://www.isca-archive.org/interspeech_2025/jahan25_interspeech.html"
 - project: FAI
   title: "Unveiling Performance Bias in ASR Systems: A Study on Gender, Age, Accent, and More"
   venue: "IEEE ICASSP"
@@ -71,100 +76,123 @@
   title: "Finding Spoken Identifications: Using GPT-4 Annotation for an Efficient and Fast Dataset Creation Pipeline"
   venue: "LREC-COLING"
   year: 2024
+  url: "https://aclanthology.org/2024.lrec-main.641/"
 - project: FAI
   title: "Model-Based Fairness Metric for Speaker Verification"
   venue: "IEEE ASRU"
   year: 2023
+  url: "https://ieeexplore.ieee.org/document/10389804/"
 
 # GARD
 - project: GARD
   title: "Clean Label Attacks against SLU Systems"
   venue: "IEEE SLT"
   year: 2024
+  url: "https://ieeexplore.ieee.org/document/10832144/"
 - project: GARD
   title: "Clustering Unsupervised Representations as Defense against Poisoning Attacks on Speech Commands Classification System"
   venue: "IEEE ASRU"
   year: 2023
+  url: "https://ieeexplore.ieee.org/document/10389650/"
 - project: GARD
   title: "Joint Energy-Based Model for Robust Speech Classification System against Dirty-Label Backdoor Poisoning Attacks"
   venue: "IEEE ASRU"
   year: 2023
+  url: "https://ieeexplore.ieee.org/document/10389697/"
 
 # NLS
 - project: NLS
   title: "Detecting Neurodegenerative Diseases Using Frame-Level Handwriting Embeddings"
   venue: "IEEE ICASSP"
   year: 2025
+  url: "https://ieeexplore.ieee.org/document/10887880/"
 - project: NLS
   title: "Interpretable Features for the Assessment of Neurodegenerative Diseases through Handwriting Analysis"
   venue: "IEEE Journal of Biomedical and Health Informatics"
   year: 2025
+  url: "https://doi.org/10.1109/JBHI.2025.3625816"
 - project: NLS
   title: "Advancing Alzheimer's Disease Detection via Multimodal Fusion of Speech and Eye Movement Data"
   venue: "IEEE EMBC"
   year: 2025
+  url: "https://ieeexplore.ieee.org/document/11253038/"
 - project: NLS
   title: "Sampling Rate Guidelines for Eye-Tracking in Neurological Disorders: A Task-Specific Multimetric Analysis"
   venue: "IEEE EMBC"
   year: 2025
+  url: "https://ieeexplore.ieee.org/document/11253777/"
 - project: NLS
   title: "Multimodal Characterization of Alzheimer's Disease Using Speech, Eye Movement, and Handwriting"
   venue: "Alzheimer's & Dementia"
   year: 2024
+  url: "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.085472"
 - project: NLS
   title: "Cognitive Assessment through Writing Tasks"
   venue: "Alzheimer's & Dementia"
   year: 2024
+  url: "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.093186"
 - project: NLS
   title: "Analyzing Attention Focus in the Cookie Theft Picture Description Task Using Word Alignment"
   venue: "Alzheimer's & Dementia"
   year: 2024
+  url: "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.091687"
 - project: NLS
   title: "Dynamics of Handwriting for Cognitive Assessment"
   venue: "Alzheimer's & Dementia"
   year: 2024
+  url: "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.093190"
 - project: NLS
   title: "Consistent Explainable Features for Alzheimer's Disease Assessment through Handwriting"
   venue: "Alzheimer's & Dementia"
   year: 2024
+  url: "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.092906"
 - project: NLS
   title: "Discovering Invariant Patterns of Cognitive Decline via an Automated Analysis of the Cookie Thief Picture Description Task"
   venue: "Odyssey"
   year: 2024
+  url: "https://www.isca-archive.org/odyssey_2024/favaro24_odyssey.html"
 - project: NLS
   title: "Exploring the Complementary Nature of Speech and Eye Movements for Profiling Neurological Disorders"
   venue: "Interspeech"
   year: 2024
+  url: "https://www.isca-archive.org/interspeech_2024/wang24ka_interspeech.html"
 - project: NLS
   title: "Unveiling Early Signs of Parkinson's Disease via a Longitudinal Analysis of Celebrity Speech Recordings"
   venue: "npj Parkinson's Disease"
   year: 2024
+  url: "https://www.nature.com/articles/s41531-024-00817-9"
 - project: NLS
   title: "Technology and Dementia Preconference"
   venue: "Alzheimer's & Dementia"
   year: 2024
+  url: "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.094195"
 - project: NLS
   title: "Interpretable Speech Features vs. DNN Embeddings: What to Use in the Automatic Assessment of Parkinson's Disease in Multi-Lingual Scenarios"
   venue: "Computers in Biology and Medicine"
   year: 2023
+  url: "https://doi.org/10.1016/j.compbiomed.2023.107559"
 - project: NLS
   title: "Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech across Corpora?"
   venue: "Interspeech"
   year: 2023
+  url: "https://www.isca-archive.org/interspeech_2023/favaro23_interspeech.html"
 - project: NLS
   title: "Evaluation of Interpretable Speech Biomarkers for Monitoring Alzheimer's Disease and Mild Cognitive Impairment Progression"
   venue: "Alzheimer's & Dementia"
   year: 2023
+  url: "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.082236"
 - project: NLS
   title: "Handwriting Characteristics Analysis for Alzheimer's Disease and Mild Cognitive Impairments Assessment"
   venue: "Alzheimer's & Dementia"
   year: 2023
+  url: "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.082245"
 
 # RED
 - project: RED
   title: "Unraveling Adversarial Examples against Speaker Identification—Techniques for Attack Detection and Victim Model Classification"
   venue: "Odyssey"
   year: 2024
+  url: "https://www.isca-archive.org/odyssey_2024/joshi24_odyssey.html"
 
 # SHADOW
 - project: SHADOW
@@ -204,6 +232,7 @@
   title: "PPX-Anon: Prosody, Pitch and X-Vectors for De-Anonymization; Our Submission to the Voice Attacker Challenge 2024"
   venue: "SPSC"
   year: 2025
+  url: "https://www.isca-archive.org/spsc_2025/thebaud25_spsc.html"
 - project: SHADOW
   title: "The SHADOW Team Submission to the ASVspoof 2024 Challenge"
   venue: "ASVspoof Workshop"
@@ -240,6 +269,7 @@
   title: "Attaques par reconstruction de données biométriques comportementales à l'aide d'alignements d'embeddings"
   venue: "PhD Dissertation, Le Mans University"
   year: 2022
+  url: "https://theses.fr/2022LEMA1026"
 - project: Thesis
   title: "Supervised and Unsupervised Alignments for Spoofing Behavioral Biometrics"
   venue: "Arxiv Preprint"
@@ -249,15 +279,19 @@
   title: "On the Invertibility of a Voice Privacy System Using Embedding Alignment"
   venue: "IEEE ASRU"
   year: 2021
+  url: "https://ieeexplore.ieee.org/document/9688159/"
 - project: Thesis
   title: "Spoofing Speaker Verification with Voice Style Transfer and Reconstruction Loss"
   venue: "IEEE WIFS"
   year: 2021
+  url: "https://ieeexplore.ieee.org/document/9648375/"
 - project: Thesis
   title: "Handwritten Digits Reconstruction from Unlabelled Embeddings"
   venue: "IEEE ICASSP"
   year: 2021
+  url: "https://ieeexplore.ieee.org/document/9414885/"
 - project: Thesis
   title: "Unsupervised Labelling of Stolen Handwritten Digit Embeddings with Density Matching"
   venue: "International Conference on Applied Cryptography and Network Security"
   year: 2020
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-61638-0_30"

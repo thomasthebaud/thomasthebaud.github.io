@@ -7,7 +7,7 @@
         {% if publication.url %}
           <a href="{{ publication.url }}">{{ publication.title }}</a>
         {% else %}
-          {{ publication.title }}
+          <a href="https://scholar.google.com/scholar?q={{ publication.title | url_encode }}">{{ publication.title }}</a>
         {% endif %}
         — <i>{{ publication.venue }}</i>, {{ publication.year }}
       </li>
