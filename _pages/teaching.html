@@ -7,7 +7,58 @@ author_profile: true
 
 {% include base_path %}
 
+<div class="teaching-tabs" role="tablist" aria-label="Teaching institutions">
+  <button class="teaching-tabs__button active" id="johns-hopkins-tab" type="button" role="tab" aria-selected="true" aria-controls="johns-hopkins-courses" data-teaching-tab="johns-hopkins-courses">
+    Johns Hopkins University
+  </button>
+  <button class="teaching-tabs__button" id="le-mans-tab" type="button" role="tab" aria-selected="false" aria-controls="le-mans-courses" data-teaching-tab="le-mans-courses" tabindex="-1">
+    Le Mans University
+  </button>
+</div>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="teaching-tabs__panel" id="johns-hopkins-courses" role="tabpanel" aria-labelledby="johns-hopkins-tab">
+  {% for post in site.teaching reversed %}
+    {% if post.venue contains "Johns Hopkins University" %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<div class="teaching-tabs__panel" id="le-mans-courses" role="tabpanel" aria-labelledby="le-mans-tab" hidden>
+  {% for post in site.teaching reversed %}
+    {% if post.venue contains "Le Mans University" %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var tablist = document.querySelector(".teaching-tabs");
+    if (!tablist) return;
+
+    var tabs = Array.prototype.slice.call(tablist.querySelectorAll('[role="tab"]'));
+
+    function selectTab(selectedTab) {
+      tabs.forEach(function (tab) {
+        var isSelected = tab === selectedTab;
+        tab.classList.toggle("active", isSelected);
+        tab.setAttribute("aria-selected", isSelected.toString());
+        tab.setAttribute("tabindex", isSelected ? "0" : "-1");
+        document.getElementById(tab.getAttribute("aria-controls")).hidden = !isSelected;
+      });
+    }
+
+    tabs.forEach(function (tab, index) {
+      tab.addEventListener("click", function () { selectTab(tab); });
+      tab.addEventListener("keydown", function (event) {
+        if (event.key !== "ArrowLeft" && event.key !== "ArrowRight") return;
+        event.preventDefault();
+        var direction = event.key === "ArrowRight" ? 1 : -1;
+        var nextTab = tabs[(index + direction + tabs.length) % tabs.length];
+        selectTab(nextTab);
+        nextTab.focus();
+      });
+    });
+  });
+</script>
