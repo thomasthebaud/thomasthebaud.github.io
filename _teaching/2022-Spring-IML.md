@@ -7,4 +7,4 @@ date: 2022-01-01
 location: "Le Mans, France"
 ---
 
-I was a teaching assistant for the *Introduction to Machine Learning* Master's course at the ENSIM engineering school in Spring 2022.
+I served as a teaching assistant for the master's course *Introduction to Machine Learning* at the ENSIM engineering school in Spring 2022.

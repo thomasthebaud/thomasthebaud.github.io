@@ -7,6 +7,6 @@ date: 2023-01-01
 location: "Baltimore, MD"
 ---
 
-I was co-instructor for the Computational Modelling for Electrical and Computer Engineering Course for undergrad students of the ECE department in the Spring 2023. This course included 3 teaching periods per week to 50 students, for a total of 3 credits for the attendees.
+I served as a co-instructor for *Computational Modeling for Electrical and Computer Engineering* for undergraduate students in the Department of Electrical and Computer Engineering in Spring 2023. The three-credit course met three times per week and enrolled 50 students.
 
-In this course, the students acquired the skills of solving complex real world Electrical and Computer Engineering problems using computational modeling tools. This course coverted two aspects ofsolving those ECE problems. The first aspect consisted of learning to map ECE tasks to mathematical models. The second aspect consisted of introducingthe students to the basic of computational algorithms needed to work with the models, and programming such algorithms in MATLAB.
+The course taught students to solve complex, real-world electrical and computer engineering problems using computational modeling. Students learned to translate engineering problems into mathematical models and to implement the algorithms needed to work with those models in MATLAB.

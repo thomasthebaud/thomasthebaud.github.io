@@ -7,17 +7,15 @@ date: 2026-01-01
 location: "Baltimore, MD"
 ---
 
-Following its successful launch in Spring 2025, this course offers an advanced and updated exploration of artificial intelligence methods applied to biometric systems. Designed for both graduate and advanced undergraduate students in Electrical and Computer Engineering, the course combines theoretical foundations, practical implementation, and ethical reflection on the use of biometric technologies in modern society.
-
-The course includes one long weekly teaching period and a shorted pracice, and is worth 3 credits. This version of the course will be opened to a larger number of students than the previous year.
+Following its launch in Spring 2025, I offered an updated version of *AI for Biometric Systems: Techniques, Applications, and Ethics* for graduate and advanced undergraduate students in the Department of Electrical and Computer Engineering in Spring 2026. The three-credit course combined one extended weekly lecture with a shorter practical session and accommodated more students than the previous offering.
 
 ## Course Description
 
-AI for Biometric Systems: Techniques, Applications, and Ethics examines the design and deployment of biometric authentication systems, including both traditional approaches and modern AI-driven techniques. Students will study behavioral and physiological biometrics—such as speech, face, gait, and handwriting recognition—and their use in commercial, governmental, and forensic contexts. The course also emphasizes ethical, legal, and societal implications, including privacy, bias, and responsible AI deployment.
+The course examined the design and deployment of biometric authentication systems, including both traditional approaches and modern AI-driven techniques. Students studied behavioral and physiological biometrics—such as speech, face, gait, and handwriting recognition—and their use in commercial, governmental, and forensic contexts. The course also emphasized ethical, legal, and societal implications, including privacy, bias, and responsible AI deployment.
 
 ## Course Objectives
 
-By the end of this course, students will be able to:
+By the end of this course, students will:
 - Explain and compare traditional and AI-based authentication methods and their security trade-offs.
 - Design and implement behavioral and physiological biometric systems for identification and verification.
 - Critically analyze applications of biometric technologies across commercial and forensic domains.

@@ -7,17 +7,18 @@ date: 2025-01-01
 location: "Baltimore, MD"
 ---
 
-I created the course *AI for Biometric Systems: Techniques, Applications, and Ethics* for grad and undergrad students of the ECE department in the Spring 2025. This course will included 3 teaching periods per week to 10 students, for a total of 3 credits for the attendees.
+I developed *AI for Biometric Systems: Techniques, Applications, and Ethics* for graduate and undergraduate students in the Department of Electrical and Computer Engineering in Spring 2025. The three-credit course met three times per week and enrolled 10 students.
 
-## Course Description:  
-The proposed course, AI and Biometric Systems: Techniques, Applications, and Ethics, offers an in-depth exploration of both traditional and biometric authentication techniques, with an emphasis on their use in commercial and forensic applications. 
-Designed for undergraduate and graduate students, this course will cover behavioral and physiological biometric systems while tackling these technologies' complex legal, ethical, and moral considerations.
+## Course Description
 
-## Course Objectives:  
+The course offered an in-depth exploration of traditional and biometric authentication techniques, with an emphasis on commercial and forensic applications. Students studied behavioral and physiological biometric systems alongside the complex legal, ethical, and moral questions surrounding these technologies.
+
+## Course Objectives
+
 By the end of this course, students will:
--	Understand basic authentication methods and their security implications.
--	Know the difference and be able to implement both behavioral and physiological biometric systems for authentication and identification.
--	Analyze the application of biometrics in commercial and forensic fields.
--	Gain awareness of biometric technologies' legal, ethical, and moral considerations.
+- Understand basic authentication methods and their security implications.
+- Distinguish between and implement behavioral and physiological biometric systems for authentication and identification.
+- Analyze applications of biometrics in commercial and forensic settings.
+- Assess the legal, ethical, and moral considerations associated with biometric technologies.
 
-This course will be revised and continued in the Spring 2026.
+The course was revised and offered again in Spring 2026.

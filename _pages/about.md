@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently transitioning from my position as an Assistant Research Professor in the Department of Electrical and Computer Engineering at Johns Hopkins University to AMIAD, on the Palaiseau plateau in France. I earned my Ph.D. in antispoofing for voice and handwriting biometrics through a joint program between LIUM in Le Mans, France, and Orange Labs in Rennes, France.
+After serving as an Assistant Research Professor in the Department of Electrical and Computer Engineering at Johns Hopkins University, I am joining AMIAD in Palaiseau, France. I received my Ph.D. through a joint program between LIUM at Le Mans University and Orange Labs in Rennes, where I investigated reconstruction and spoofing attacks against voice and handwriting biometric systems.
 
-My research focuses on speech technologies, artificial intelligence, and security, with an emphasis on speech anonymization techniques, deepfake detection, speech-aware large language models, and speaker recognition. More broadly, my work explores how speech and related human signals can be processed, protected, and interpreted in trustworthy and privacy-preserving ways.
+My research lies at the intersection of speech and audio processing, machine learning, biometrics, and security. I develop methods for trustworthy and privacy-preserving speech technologies, with particular interests in speaker recognition, speech anonymization, deepfake and adversarial-attack detection, and the robustness of speech-processing systems. This work has included the SHADOW, GARD, and RED projects, as well as research on voice-privacy attacks and defenses.
 
-I remain open to national and international research collaborations. For students interested in future research opportunities, please visit the “Join Us” tab for the latest information.
+I also study how foundation models and multimodal language models can support the analysis of spoken interactions. Through the EDART and SPEAR projects, my work has addressed speaker characterization, dialogue annotation, speech-aware language models, and the evaluation of conversational speech-to-speech systems. Representative first-author contributions include *ProPS: Prompted Profile Synthesis for Natural Language-Conditioned Speaker Embedding Distributions*, *SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models*, and *Speaker Verification with Speech-Aware LLMs: Evaluation and Augmentation*.
+
+A complementary strand of my research investigates digital biomarkers for neurodegenerative disease detection and severity assessment. Within the NLS and ADPIE projects, I have worked with speech, handwriting, eye movements, and gait, including recent work on interpretable handwriting features for clinical assessment. Further details are available on the [Projects](/projects/) and [Publications](/publications/) pages.
+
+I welcome national and international research collaborations. Students interested in future research opportunities can consult the [Join Us](/join/) page for current information.
 
 (Updated July 2026)
