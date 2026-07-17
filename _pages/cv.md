@@ -77,7 +77,8 @@ Service
 ======
 * Social Chair in the Post-doctoral association of Hopkins for the Homewood campus.
 * Faculty supervisor of the Social Comittee of the CLSP
-* Reviewer for ICASSP 2024, 2025; LREC-COLING 2024; Interspeech 2024, 2025; IJCNN 2025; Journal of Computer Speech and Language 2025
-* Session Chair for CISS 2023, CISS 2025, Session Chair for Odyssey 2024, Euronoise Accousticum 2025, Interspeech 2025
+* Reviewer for ICASSP 2024, 2025; LREC-COLING 2024; Interspeech 2024, 2025, 2026; IJCNN 2025; Journal of Computer Speech and Language 2025, SLT 2026, SPSC 2026, ACL-RR 2026, 
+* Session Chair for CISS 2023, CISS 2025, Odyssey 2024, Euronoise Accousticum 2025, Interspeech 2025,  Interspeech 2026
 * Meta-Reviewer and Organizing chair for Odyssey 2024
 * Tutorial Co-chair for Interspeech 2028
+* Tutorial Chair for IEEE ASLI 2027
