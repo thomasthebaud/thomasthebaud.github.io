@@ -330,7 +330,7 @@
   url: "https://arxiv.org/abs/2408.08918"
 - project: Thesis
   title: "On the Invertibility of a Voice Privacy System Using Embedding Alignment"
-  author: "Pierre Champion"
+  author: "Pierre Champion & Thomas Thebaud"
   venue: "IEEE ASRU"
   year: 2021
   url: "https://ieeexplore.ieee.org/document/9688159/"
