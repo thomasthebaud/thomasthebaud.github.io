@@ -304,8 +304,8 @@
   url: "https://ieeexplore.ieee.org/document/11434705/"
 - project: ETS
   title: "Backdoor Attacks Against Speech Language Models"
-  venue: "Arxiv Preprint"
-  year: 2025
+  venue: "Interspeech"
+  year: 2026
   url: "https://arxiv.org/abs/2510.01157"
 - project: AGH
   title: "End-to-End Neural Speaker Diarization With Non-Autoregressive Attractors"
