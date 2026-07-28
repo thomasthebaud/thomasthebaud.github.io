@@ -294,7 +294,7 @@
 # SPEAR
 - project: SPEAR
   title: "StanceBench: A Benchmark for Audio LLM-Based Interpersonal Stance Evaluation from Speech"
-  author: "Ashish Hallur"
+  author: "Yuzhe Wang"
   venue: "Interspeech"
   year: 2026
 - project: SPEAR
