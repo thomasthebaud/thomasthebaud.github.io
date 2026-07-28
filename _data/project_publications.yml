@@ -1,5 +1,12 @@
 # Generated from citations(1).csv. Published venues take precedence over arXiv records.
 
+# Collabs
+- project: UniVPM
+  title: "Dysarthria Severity Classification on the HeyJay! Dataset: A Parameter-Efficient Approach Using Self-Supervised Speech Representations"
+  author: "Davide Lillini"
+  venue: "Speaker Odyssey"
+  year: 2026
+
 # ADPIE
 - project: ADPIE
   title: "Cross-Corpus and Cross-domain Handwriting Assessment of NeuroDegenerative Diseases via Time-Series-to-Image Conversion"
