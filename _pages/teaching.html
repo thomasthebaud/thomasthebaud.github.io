@@ -5,11 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
 <div class="teaching-tabs" role="tablist" aria-label="Teaching institutions">
   <button class="teaching-tabs__button active" id="johns-hopkins-tab" type="button" role="tab" aria-selected="true" aria-controls="johns-hopkins-courses" data-teaching-tab="johns-hopkins-courses">
-    Johns Hopkins University (2022-2026)
+    Johns Hopkins University (2023–2026)
   </button>
   <button class="teaching-tabs__button" id="le-mans-tab" type="button" role="tab" aria-selected="false" aria-controls="le-mans-courses" data-teaching-tab="le-mans-courses" tabindex="-1">
     Le Mans University (2022)
@@ -17,19 +15,107 @@ author_profile: true
 </div>
 
 <div class="teaching-tabs__panel" id="johns-hopkins-courses" role="tabpanel" aria-labelledby="johns-hopkins-tab">
-  {% for post in site.teaching reversed %}
-    {% if post.venue contains "Johns Hopkins University" %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
+  <article class="teaching-card">
+    <header class="teaching-card__header">
+      <div>
+        <h2>AI for Biometric Systems: Techniques, Applications, and Ethics</h2>
+        <p class="teaching-card__code">EN.520.461 / EN.520.661</p>
+      </div>
+      <span class="teaching-card__level">Undergraduate / Graduate</span>
+    </header>
+    <p>Machine learning for behavioral and physiological biometric authentication, including commercial and forensic applications, deepfakes, system vulnerabilities and defenses, and the legal, ethical, and moral dimensions of these technologies.</p>
+    <ul class="teaching-card__semesters" aria-label="Course offerings">
+      <li>
+        <span class="teaching-card__term">Spring 2026</span>
+        <span><strong>Instructor</strong> · 35 students (25 master’s, 10 undergraduate)</span>
+      </li>
+      <li>
+        <span class="teaching-card__term">Spring 2025</span>
+        <span><strong>Course Creator and Instructor</strong> · 10 master’s students</span>
+      </li>
+    </ul>
+  </article>
+
+  <article class="teaching-card">
+    <header class="teaching-card__header">
+      <div>
+        <h2>Machine Learning for Signal Processing</h2>
+        <p class="teaching-card__code">EN.520.412 / EN.520.612</p>
+      </div>
+      <span class="teaching-card__level">Undergraduate / Graduate</span>
+    </header>
+    <p>Machine learning theory and algorithms for modeling, classifying, and retrieving information from complex real-world signals such as audio, speech, images, and video.</p>
+    <ul class="teaching-card__semesters" aria-label="Course offerings">
+      <li>
+        <span class="teaching-card__term">Fall 2025</span>
+        <span><strong>Co-Instructor</strong> · 49 master’s students</span>
+      </li>
+      <li>
+        <span class="teaching-card__term">Fall 2024</span>
+        <span><strong>Co-Instructor</strong> · 60 students (58 master’s, 2 undergraduate)</span>
+      </li>
+      <li>
+        <span class="teaching-card__term">Fall 2023</span>
+        <span><strong>Teaching Assistant</strong> · 60 students (55 master’s, 5 undergraduate)</span>
+      </li>
+    </ul>
+  </article>
+
+  <article class="teaching-card">
+    <header class="teaching-card__header">
+      <div>
+        <h2>Explore Machine Learning Solutions for Security</h2>
+        <p class="teaching-card__code">EN.500.111 · HEART Program</p>
+      </div>
+      <span class="teaching-card__level">Undergraduate</span>
+    </header>
+    <p>A hands-on introduction to machine learning in Python through authentication and attack-detection examples, coding exercises, and a collaborative group project.</p>
+    <ul class="teaching-card__semesters" aria-label="Course offerings">
+      <li>
+        <span class="teaching-card__term">Fall 2023</span>
+        <span><strong>Course Creator and Instructor</strong> · 14 undergraduate students</span>
+      </li>
+    </ul>
+  </article>
+
+  <article class="teaching-card">
+    <header class="teaching-card__header">
+      <div>
+        <h2>Computational Modeling for Electrical and Computer Engineering</h2>
+        <p class="teaching-card__code">EN.520.123</p>
+      </div>
+      <span class="teaching-card__level">Undergraduate</span>
+    </header>
+    <p>Computational approaches to electrical and computer engineering problems, from translating real-world tasks into mathematical models to implementing the required algorithms in MATLAB.</p>
+    <ul class="teaching-card__semesters" aria-label="Course offerings">
+      <li>
+        <span class="teaching-card__term">Spring 2024</span>
+        <span><strong>Co-Instructor</strong> · 57 undergraduate students</span>
+      </li>
+      <li>
+        <span class="teaching-card__term">Spring 2023</span>
+        <span><strong>Teaching Assistant</strong> · 55 undergraduate students</span>
+      </li>
+    </ul>
+  </article>
 </div>
 
 <div class="teaching-tabs__panel" id="le-mans-courses" role="tabpanel" aria-labelledby="le-mans-tab" hidden>
-  {% for post in site.teaching reversed %}
-    {% if post.venue contains "Le Mans University" %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
+  <article class="teaching-card">
+    <header class="teaching-card__header">
+      <div>
+        <h2>Introduction to Machine Learning</h2>
+        <p class="teaching-card__code">ENSIM Engineering School</p>
+      </div>
+      <span class="teaching-card__level">Master’s</span>
+    </header>
+    <ul class="teaching-card__semesters" aria-label="Course offerings">
+      <li>
+        <span class="teaching-card__term">Spring 2022</span>
+        <span><strong>Teaching Assistant</strong> · Enrollment not specified</span>
+      </li>
+    </ul>
+  </article>
 </div>
 
 <script>
