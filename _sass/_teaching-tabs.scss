@@ -52,30 +52,17 @@
 }
 
 .teaching-card__header {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 1rem;
-
   h2 {
     margin: 0;
     font-size: 1.05em;
   }
 }
 
-.teaching-card__code {
+.teaching-card__meta {
   margin: 0.2rem 0 0;
   color: $primary-color;
   font-size: 0.82em;
   font-weight: 600;
-}
-
-.teaching-card__level {
-  flex: 0 0 auto;
-  color: $primary-color;
-  font-size: 0.82em;
-  font-weight: 600;
-  white-space: nowrap;
 }
 
 .teaching-card__semesters {
@@ -110,11 +97,6 @@
     border: 1px solid $border-color;
     border-radius: $border-radius;
     text-align: left;
-  }
-
-  .teaching-card__header {
-    flex-direction: column;
-    gap: 0.35rem;
   }
 
   .teaching-card__semesters li {
