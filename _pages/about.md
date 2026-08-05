@@ -10,12 +10,32 @@ redirect_from:
 
 After serving as an Assistant Research Professor in the Department of Electrical and Computer Engineering at Johns Hopkins University, I am joining AMIAD in Palaiseau, France. I received my Ph.D. through a joint program between LIUM at Le Mans University and Orange Labs in Rennes, where I investigated reconstruction and spoofing attacks against voice and handwriting biometric systems.
 
-My research lies at the intersection of speech and audio processing, machine learning, biometrics, and security. I develop methods for trustworthy and privacy-preserving speech technologies, with particular interests in speaker recognition, speech anonymization, deepfake and adversarial-attack detection, and the robustness of speech-processing systems. This work has included the SHADOW, GARD, and RED projects, as well as research on voice-privacy attacks and defenses.
+<h1>Research focus</h1>
 
-I also study how foundation models and multimodal language models can support the analysis of spoken interactions. Through the EDART and SPEAR projects, my work has addressed speaker characterization, dialogue annotation, speech-aware language models, and the evaluation of conversational speech-to-speech systems. Representative first-author contributions include *ProPS: Prompted Profile Synthesis for Natural Language-Conditioned Speaker Embedding Distributions*, *SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models*, and *Speaker Verification with Speech-Aware LLMs: Evaluation and Augmentation*.
+<h2>Trustworthy and secured systems</h2>
+My research lies at the intersection of speech and audio processing, machine learning, biometrics, and security. I develop methods for trustworthy and privacy-preserving speech technologies, with particular interests in speaker recognition, speech anonymization, deepfake and adversarial-attack detection, and the robustness of speech-processing systems. This work has included the IARPA-SHADOW, DARPA-GARD, and DARPA-RED projects.
+<h2>Human centered conversational systems</h2>
+I also study how foundation models and multimodal language models can support the analysis of spoken interactions. Through the EDART and SPEAR projects, my work has addressed speaker characterization, dialogue annotation, speech-aware language models, and the evaluation of conversational speech-to-speech systems. 
+<h2>Multimodal Healthcare applications</h2>
+A complementary strand of my research investigates digital biomarkers for neurodegenerative disease detection and severity assessment. Within the NLS and ADPIE projects, I have worked with speech, handwriting, eye movements, and gait, including recent work on interpretable handwriting features for clinical assessment. 
 
-A complementary strand of my research investigates digital biomarkers for neurodegenerative disease detection and severity assessment. Within the NLS and ADPIE projects, I have worked with speech, handwriting, eye movements, and gait, including recent work on interpretable handwriting features for clinical assessment. Further details are available on the [Projects](/projects/) and [Publications](/publications/) pages.
+Further details are available on the [Projects](/projects/) page.
 
-I welcome national and international research collaborations. Students interested in future research opportunities can consult the [Join Us](/join/) page for current information.
 
-(Updated July 2026)
+<h1>Service and Teaching</h1>
+<h2>Teaching interests</h2>
+Over the past four years, I have taught undergraduate and master’s-level courses in the Department of Electrical and Computer Engineering at Johns Hopkins University. I have also designed and developed an original course: "AI for Biometric Systems: Techniques, Applications, and Ethics", which explores biometric systems and solutions through various lens, including practical labs to experiment on various modalities.
+
+<h2>Service</h2>
+I actively contribute to the speech research community:
+- Session chair for CISS 2023 & 2025, Speaker Odyssey 2024, Euronoise Acousticum 2025, Interspeech 2025 & 2026
+- Organizing chair of the Speaker Odyssey 2024 workshop in Québec city, Tutorial chair for the incoming Interspeech 2028 and the new IEEE ASLI 2027
+- Reviewer for ICASSP, LREC, Interspeech, IJCNN, CISS, SLT, SPSC, Speaker Odyssey, ACL, and ICLR, Computer Speech & Language Journal and Transactions on Audio, Speech, and Language Processing Journal, and grant reviewer for the Johns Hopkins Artificial Intelligence and Technology Collaboratory.
+
+<h2>Mentorship</h2>
+I have supervised and mentored multiple undergraduate, master’s, and Ph.D. students on research projects involving speech technologies. 
+I am committed to supporting motivated and capable individuals in developing strong research skills, from problem formulation and experimental design to publication and scientific communication.
+
+I welcome national and international research collaborations and remain open to mentoring motivated students and early-career researchers. Students interested in future research opportunities can consult the [Join Us](/join/) page for current information and opportunities.
+
+(Updated August 2026)
