@@ -46,7 +46,7 @@ social:
 author:
   name             : "Thomas Thebaud"
   avatar           : "profile.png"
-  bio              : "Currently transitioning from the Johns Hopkins University, USA to the AMIAD, FR. I work on speech technologies, AI, and security, with a focus on speech anonymization, deepfake detection, speech-aware large language models, and speaker recognition. My research explores trustworthy and privacy-preserving speech processing, as well as national and international collaborations."
+  bio              : "Currently transitioning from the Johns Hopkins University, USA to the AMIAD, FR. I work on speech technologies and security, with a focus on speech anonymization, deepfake detection, speech-aware LLMs, and speaker recognition."
   location         : "Baltimore, MD"
   employer         : "ECE Dept, JHU"
   pubmed           : 
