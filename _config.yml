@@ -46,12 +46,12 @@ social:
 author:
   name             : "Thomas Thebaud"
   avatar           : "profile.png"
-  bio              : "Currently transitioning from the Johns Hopkins University, USA to the AMIAD, FR. I work on speech technologies and security, with a focus on speech anonymization, deepfake detection, speech-aware LLMs, and speaker recognition."
-  location         : "Baltimore, MD"
-  employer         : "ECE Dept, JHU"
+  bio              : "Chargé de Recherche at the AMIAD, I work on speech technologies and security, with a focus on speech anonymization, deepfake detection, speech-aware LLMs, and speaker recognition."
+  location         : "Palaiseau, FR"
+  employer         : "AMIAD"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5wgj-vYAAAAJ&hl=fr"
-  email            : "tthebau1@jhu.edu"
+  email            : "thomas.thebaud@polytechnique.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

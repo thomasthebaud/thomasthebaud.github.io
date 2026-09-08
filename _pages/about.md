@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-After serving as an Assistant Research Professor in the Department of Electrical and Computer Engineering at Johns Hopkins University, I am joining AMIAD in Palaiseau, France. I received my Ph.D. through a joint program between LIUM at Le Mans University and Orange Labs in Rennes, where I investigated reconstruction and spoofing attacks against voice and handwriting biometric systems.
+I received my PhD from Le Mans University, where I conducted research at LIUM in collaboration with Orange Labs in Rennes, focusing on biometric authentication and security.
+I then joined the Center for Language and Speech Processing (CLSP) at Johns Hopkins University in Baltimore as a postdoctoral researcher. After four years there, I became an Assistant Research Professor in the Department of Electrical and Computer Engineering.
+I am now a tenured researcher (Chargé de recherche) at AMIAD in Palaiseau, France, where I continue to work at the intersection of speech processing, trustworthy AI, and security.
 
 <h1>Research focus</h1>
 
@@ -38,4 +40,4 @@ I am committed to supporting motivated and capable individuals in developing str
 
 I welcome national and international research collaborations and remain open to mentoring motivated students and early-career researchers. Students interested in future research opportunities can consult the [Join Us](/join/) page for current information and opportunities.
 
-(Updated August 2026)
+(Updated September 2026)
