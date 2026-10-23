@@ -135,7 +135,6 @@ I am currently looking for motivated students to join a range of research projec
     </header>
     <p>I welcome <strong>research project proposals from Master 1 and Master 2 students at engineering schools in Palaiseau</strong>. If you have an idea you would like to explore, please get in touch to discuss potential collaborations.</p>
   </article>
-  If you have an idea you would like to explore, please get in touch to discuss potential collaborations.</p>
 </div>
 
 <script>
