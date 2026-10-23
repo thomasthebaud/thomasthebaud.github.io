@@ -13,7 +13,7 @@ I am currently looking for motivated students to join a range of research projec
 
 <div class="teaching-tabs" role="tablist" aria-label="Research opportunities">
   <button class="teaching-tabs__button active" id="internships-tab" type="button" role="tab" aria-selected="true" aria-controls="internships-opportunities" data-teaching-tab="internships-opportunities">
-    Internships (6)
+    Masters Internships (6)
   </button>
   <button class="teaching-tabs__button" id="phd-tab" type="button" role="tab" aria-selected="false" aria-controls="phd-opportunities" tabindex="-1" data-teaching-tab="phd-opportunities">
     PhD Positions (1)
@@ -36,7 +36,7 @@ I am currently looking for motivated students to join a range of research projec
 </div>
 
 <div class="teaching-tabs__panel" id="internships-opportunities" role="tabpanel" aria-labelledby="internships-tab">
-  <p>Six-month paid Master 2 internships at the AMIAD, starting in spring 2027, on the Polytechnique campus, Palaiseau.
+  <p>Six-month paid Master 2 internships at the AMIAD, starting in spring 2027, on the Polytechnique campus, Palaiseau. If you are interested in multiple topics at once, please put all the points of contact in copy so we can all meet at once.
 </p>
 
   <article class="teaching-card">
@@ -113,7 +113,6 @@ I am currently looking for motivated students to join a range of research projec
     <p><strong><a href="{{ site.baseurl }}/assets/internships/AMIAD_2027/%5BStage%20AMIAD%202027%5D%20Deepfake_documentaire_AMIAD_2027.pdf">Download PDF</a></strong></p>
   </article>
 
-  <p>Topics are not final, and may be subject to variations, please contact me directly to learn more.</p>
 </div>
 
 <div class="teaching-tabs__panel" id="research-experience-opportunities" role="tabpanel" aria-labelledby="research-experience-tab" hidden>
