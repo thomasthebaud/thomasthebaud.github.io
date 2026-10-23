@@ -9,7 +9,7 @@ You can find my complete publication record on [my Google Scholar profile](https
 
 ## First-author publications
 
-- **2026** — [ProPS: Prompted Profile Synthesis for Natural Language-Conditioned Speaker Embedding Distributions](https://arxiv.org/abs/2607.05276) *(Arxiv Preprint)*
+- **2026** — [ProPS: Prompted Profile Synthesis for Natural Language-Conditioned Speaker Embedding Distributions](https://arxiv.org/abs/2607.05276) *(IEEE SLT 2026)*
 - **2026** — [SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models](https://arxiv.org/abs/2607.05365) *(Arxiv Preprint)*
 - **2026** — Speaker Verification with Speech-Aware LLMs: Evaluation and Augmentation *(Interspeech 2026)*
 - **2026** — Interpretable Features for the Assessment of Neurodegenerative Diseases Through Handwriting Analysis *(IEEE Journal of Biomedical and Health Informatics)*
