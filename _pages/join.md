@@ -19,7 +19,7 @@ I am currently looking for motivated students to join a range of research projec
     PhD Positions (1)
   </button>
   <button class="teaching-tabs__button" id="research-experience-tab" type="button" role="tab" aria-selected="false" aria-controls="research-experience-opportunities" tabindex="-1" data-teaching-tab="research-experience-opportunities">
-    Research Experience (TBD)
+    Research Experiences (TBD)
   </button>
 </div>
 
