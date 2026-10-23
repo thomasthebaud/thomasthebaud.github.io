@@ -12,18 +12,18 @@ redirect_from:
 I am currently looking for motivated students to join a range of research projects. Explore the tabs below for PhD positions (full-time, paid positions lasting 3 to 6 years), internships (full-time, paid positions lasting 3 to 6 months), and research experiences (unpaid collaborations on projects we can develop together during your undergraduate or master’s studies). Current topics are outlined below, but I also welcome new ideas—please feel free to contact me to discuss your interests.
 
 <div class="teaching-tabs" role="tablist" aria-label="Research opportunities">
-  <button class="teaching-tabs__button active" id="phd-tab" type="button" role="tab" aria-selected="true" aria-controls="phd-opportunities" data-teaching-tab="phd-opportunities">
-    PhD Positions
+  <button class="teaching-tabs__button active" id="internships-tab" type="button" role="tab" aria-selected="true" aria-controls="internships-opportunities" data-teaching-tab="internships-opportunities">
+    Internships (6)
   </button>
-  <button class="teaching-tabs__button" id="internships-tab" type="button" role="tab" aria-selected="false" aria-controls="internships-opportunities" data-teaching-tab="internships-opportunities" tabindex="-1">
-    Internships
+  <button class="teaching-tabs__button" id="phd-tab" type="button" role="tab" aria-selected="false" aria-controls="phd-opportunities" tabindex="-1" data-teaching-tab="phd-opportunities">
+    PhD Positions (1)
   </button>
-  <button class="teaching-tabs__button" id="research-experience-tab" type="button" role="tab" aria-selected="false" aria-controls="research-experience-opportunities" data-teaching-tab="research-experience-opportunities" tabindex="-1">
-    Research Experience
+  <button class="teaching-tabs__button" id="research-experience-tab" type="button" role="tab" aria-selected="false" aria-controls="research-experience-opportunities" tabindex="-1" data-teaching-tab="research-experience-opportunities">
+    Research Experience (TBD)
   </button>
 </div>
 
-<div class="teaching-tabs__panel" id="phd-opportunities" role="tabpanel" aria-labelledby="phd-tab">
+<div class="teaching-tabs__panel" id="phd-opportunities" role="tabpanel" aria-labelledby="phd-tab" hidden>
   <article class="teaching-card">
     <header class="teaching-card__header">
       <h2>Multimodal Deepfake Detection</h2>
@@ -35,8 +35,8 @@ I am currently looking for motivated students to join a range of research projec
   </article>
 </div>
 
-<div class="teaching-tabs__panel" id="internships-opportunities" role="tabpanel" aria-labelledby="internships-tab" hidden>
-  <p>Six-month paid Master 2 internships at the AMIAD, starting in spring 2027, on the Polytechnique campus, Palaiseau; preferably for students from engineering schools in Palaiseau, or from Paris metropolitan area.
+<div class="teaching-tabs__panel" id="internships-opportunities" role="tabpanel" aria-labelledby="internships-tab">
+  <p>Six-month paid Master 2 internships at the AMIAD, starting in spring 2027, on the Polytechnique campus, Palaiseau.
 </p>
 
   <article class="teaching-card">
@@ -118,13 +118,25 @@ I am currently looking for motivated students to join a range of research projec
 
 <div class="teaching-tabs__panel" id="research-experience-opportunities" role="tabpanel" aria-labelledby="research-experience-tab" hidden>
   <p>Unpaid research experiences for a semester or a year, which can be rewarded with academic credits depending on your institution.</p>
-  <p>Topics include for Johns Hopkins University students:</p>
-  <ul>
-    <li><strong>Language identification in crowds</strong></li>
-    <li><strong>Conversation analysis using large language models</strong></li>
-    <li><strong>Reverberation of audio and speech signals in open and enclosed spaces</strong></li>
-  </ul>
-  <p>I welcome <strong>research project proposals from Master 1 and Master 2 students at engineering schools in Palaiseau</strong>. If you have an idea you would like to explore, please get in touch to discuss potential collaborations.</p>
+  <article class="teaching-card">
+    <header class="teaching-card__header">
+      <h2>Johns Hopkins University</h2>
+    </header>
+    <p>Research topics for Johns Hopkins University students include:</p>
+    <ul>
+      <li><strong>Language identification in crowds</strong></li>
+      <li><strong>Conversation analysis using large language models</strong></li>
+      <li><strong>Reverberation of audio and speech signals in open and enclosed spaces</strong></li>
+    </ul>
+  </article>
+
+  <article class="teaching-card">
+    <header class="teaching-card__header">
+      <h2>Palaiseau Engineering Schools</h2>
+    </header>
+    <p>I welcome <strong>research project proposals from Master 1 and Master 2 students at engineering schools in Palaiseau</strong>. If you have an idea you would like to explore, please get in touch to discuss potential collaborations.</p>
+  </article>
+  If you have an idea you would like to explore, please get in touch to discuss potential collaborations.</p>
 </div>
 
 <script>
