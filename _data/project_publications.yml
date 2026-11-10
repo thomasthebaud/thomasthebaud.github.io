@@ -7,6 +7,28 @@
   venue: "Speaker Odyssey"
   year: 2026
 
+# AMIAD
+- project: StreamingPrivacy
+  title: "TOWARD COMPLETE SPEAKER ANONYMIZATION: A STREAMING CASCADED SYSTEM FOR VOICE PRIVACY AND PII REMOVAL"
+  author: "Stanisław Kacprzak et al."
+  venue: "Arxiv Preprint"
+  year: 2026
+  url: "https://arxiv.org/pdf/2610.39754"
+
+- project: DeepfakeDetection
+  title: "Leveraging Gradient Reversal Loss and Multitask Learning for Datasets-Aware Audio Deepfake Detection"
+  author: "Mingrui Liang et al."
+  venue: "SPSC"
+  year: 2026
+  url: "https://arxiv.org/pdf/2607.23961"
+
+- project: AudioSceneDescriptions
+  title: "CARES: A CONTROLLED SYNTHETIC BENCHMARK OF SPEAKER REACTIONS TO SOUND"
+  author: "Marcel Gibier et al."
+  venue: "Arxiv Preprint"
+  year: 2026
+  url: "https://arxiv.org/pdf/2610.10208"
+
 # ADPIE
 - project: ADPIE
   title: "Cross-Corpus and Cross-domain Handwriting Assessment of NeuroDegenerative Diseases via Time-Series-to-Image Conversion"
@@ -54,8 +76,8 @@
 - project: EDART
   title: "Beyond Transcripts: Iterative Peer-Editing with Audio Unlocks High-Quality Human Summaries of Conversational Speech"
   author: "Kaavya Chaparala"
-  venue: "Arxiv Preprint"
-  year: 2026
+  venue: "LREC 2025"
+  year: 2025
   url: "https://arxiv.org/abs/2605.17652"
 - project: EDART
   title: "Demographic Attributes Prediction from Speech Using WavLM Embeddings"
@@ -264,7 +286,7 @@
 - project: SHADOW
   title: "ProPS: Prompted Profile Synthesis for Natural Language-Conditioned Speaker Embedding Distributions"
   author: "Thomas Thebaud"
-  venue: "Arxiv Preprint"
+  venue: "SLT 2026"
   year: 2026
   url: "https://arxiv.org/abs/2607.05276"
 - project: SHADOW
@@ -300,7 +322,7 @@
 - project: SPEAR
   title: "TRACE: Temporal Relationship-Aware Conversational Entrainment Detection in Dyadic Speech"
   author: "Sathvik Manikantan Napa Ugandhar"
-  venue: "Arxiv Preprint"
+  venue: "SLT 2026"
   year: 2026
   url: "https://arxiv.org/abs/2606.30543"
 - project: SPEAR
