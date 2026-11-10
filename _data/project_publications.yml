@@ -10,21 +10,21 @@
 # AMIAD
 - project: StreamingPrivacy
   title: "TOWARD COMPLETE SPEAKER ANONYMIZATION: A STREAMING CASCADED SYSTEM FOR VOICE PRIVACY AND PII REMOVAL"
-  author: "Stanisław Kacprzak et al."
+  author: "Stanisław Kacprzak"
   venue: "Arxiv Preprint"
   year: 2026
   url: "https://arxiv.org/pdf/2610.39754"
 
 - project: DeepfakeDetection
   title: "Leveraging Gradient Reversal Loss and Multitask Learning for Datasets-Aware Audio Deepfake Detection"
-  author: "Mingrui Liang et al."
+  author: "Mingrui Liang"
   venue: "SPSC"
   year: 2026
   url: "https://arxiv.org/pdf/2607.23961"
 
 - project: AudioSceneDescriptions
   title: "CARES: A CONTROLLED SYNTHETIC BENCHMARK OF SPEAKER REACTIONS TO SOUND"
-  author: "Marcel Gibier et al."
+  author: "Marcel Gibier"
   venue: "Arxiv Preprint"
   year: 2026
   url: "https://arxiv.org/pdf/2610.10208"
