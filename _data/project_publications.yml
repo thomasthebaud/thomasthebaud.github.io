@@ -102,6 +102,11 @@
   author: "Yen-Ju Lu"
   venue: "IEEE ASRU"
   year: 2025
+- project: EDART
+  title: "Dyship: Leveraging Acoustic Features For Speaker Relationship Classification From Dyadic Conversations"
+  author: "Kieran Sturges"
+  venue: "Under Review"
+  year: 2026
 
 # FAI
 - project: FAI
