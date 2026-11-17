@@ -13,7 +13,7 @@ I am currently looking for motivated students to join a range of research projec
 
 <div class="teaching-tabs" role="tablist" aria-label="Research opportunities">
   <button class="teaching-tabs__button active" id="internships-tab" type="button" role="tab" aria-selected="true" aria-controls="internships-opportunities" data-teaching-tab="internships-opportunities">
-    Masters Internships (6)
+    Masters Internships (7)
   </button>
   <button class="teaching-tabs__button" id="phd-tab" type="button" role="tab" aria-selected="false" aria-controls="phd-opportunities" tabindex="-1" data-teaching-tab="phd-opportunities">
     PhD Positions (1)
@@ -61,6 +61,19 @@ I am currently looking for motivated students to join a range of research projec
       <li>Thomas Thebaud: <a href="mailto:thomas.thebaud@polytechnique.edu">thomas.thebaud@polytechnique.edu</a></li>
     </ul>
     <p><strong><a href="{{ site.baseurl }}/assets/internships/AMIAD_2027/%5BStage%20AMIAD%202027%5D%20%20Streaming_PII_removal.pdf">Download PDF</a></strong></p>
+  </article>
+
+  <article class="teaching-card">
+    <header class="teaching-card__header">
+      <h2>Streaming Spoken Document Retrieval</h2>
+    </header>
+    <p><strong>Description:</strong> Build and evaluate a reproducible open-source prototype that retrieves relevant documents during live conversations by combining streaming speech recognition, conversation understanding, and automatic query generation. Integrate existing tools with a document search engine and an interface that updates the displayed documents as the conversation evolves, then assess relevance, end-to-end latency, and display stability.</p>
+    <p><strong>Points of contact:</strong></p>
+    <ul>
+      <li>Christophe Servan: <a href="mailto:christophe.servan@polytechnique.edu">christophe.servan@polytechnique.edu</a></li>
+      <li>Thomas Thebaud: <a href="mailto:thomas.thebaud@polytechnique.edu">thomas.thebaud@polytechnique.edu</a></li>
+    </ul>
+    <p><strong><a href="{{ site.baseurl }}/assets/internships/AMIAD_2027/%5BStage%20AMIAD%202027%5DStreaming_Spoken_Document_Retrieval.pdf">Download PDF</a></strong></p>
   </article>
 
   <article class="teaching-card">
