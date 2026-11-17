@@ -16,7 +16,7 @@ I am currently looking for motivated students to join a range of research projec
     Masters Internships (7)
   </button>
   <button class="teaching-tabs__button" id="phd-tab" type="button" role="tab" aria-selected="false" aria-controls="phd-opportunities" tabindex="-1" data-teaching-tab="phd-opportunities">
-    PhD Positions (1)
+    PhD Positions (2)
   </button>
   <button class="teaching-tabs__button" id="research-experience-tab" type="button" role="tab" aria-selected="false" aria-controls="research-experience-opportunities" tabindex="-1" data-teaching-tab="research-experience-opportunities">
     Research Experiences (TBD)
@@ -29,8 +29,27 @@ I am currently looking for motivated students to join a range of research projec
       <h2>Multimodal Deepfake Detection</h2>
       <p class="teaching-card__meta">ÉTS Montréal · Montréal, Canada</p>
     </header>
-    <p>A PhD position on multimodal deepfake detection in collaboration between ÉTS Montréal and AMIAD, co-supervised by Patrick Cardinal and Thomas Thebaud.</p>
+    <p>Develop methods that combine audio and visual cues to detect manipulated media and identify inconsistencies between speech and facial movements.</p>
     <p><strong>Start date:</strong> As soon as possible.</p>
+    <p><strong>Points of contact:</strong></p>
+    <ul>
+      <li>Patrick Cardinal: <a href="mailto:patrick.cardinal@etsmtl.ca">patrick.cardinal@etsmtl.ca</a></li>
+      <li>Thomas Thebaud: <a href="mailto:thomas.thebaud@polytechnique.edu">thomas.thebaud@polytechnique.edu</a></li>
+    </ul>
+    <p><strong><a href="{{ site.baseurl }}/assets/thesis/2027/%5BPhD%20Topic%20ETS-AMIAD%5D%20Multimodal%20Deepfake%20Detection.pdf">Download PDF</a></strong></p>
+  </article>
+
+  <article class="teaching-card">
+    <header class="teaching-card__header">
+      <h2>Streaming Speech Anonymization</h2>
+      <p class="teaching-card__meta">AMIAD · Palaiseau, France</p>
+    </header>
+    <p>Develop low-latency methods to protect speaker identity and sensitive spoken information in live audio streams while preserving speech intelligibility.</p>
+    <p><strong>Start date:</strong> September 2027</p>
+    <p><strong>Point of contact:</strong></p>
+    <ul>
+      <li>Thomas Thebaud: <a href="mailto:thomas.thebaud@polytechnique.edu">thomas.thebaud@polytechnique.edu</a></li>
+    </ul>
     <p><strong>Topic PDF:</strong> Coming soon.</p>
   </article>
 </div>
