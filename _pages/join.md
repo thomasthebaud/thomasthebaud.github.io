@@ -26,22 +26,6 @@ I am currently looking for motivated students to join a range of research projec
 <div class="teaching-tabs__panel" id="phd-opportunities" role="tabpanel" aria-labelledby="phd-tab" hidden>
   <article class="teaching-card">
     <header class="teaching-card__header">
-      <h2>Multimodal Deepfake Detection</h2>
-      <span class="teaching-card__status">attributed</span>
-      <p class="teaching-card__meta">ÉTS Montréal · Montréal, Canada</p>
-    </header>
-    <p>Develop methods that combine audio and visual cues to detect manipulated media and identify inconsistencies between speech and facial movements.</p>
-    <p><strong>Start date:</strong> As soon as possible.</p>
-    <p><strong>Points of contact:</strong></p>
-    <ul>
-      <li>Patrick Cardinal: <a href="mailto:patrick.cardinal@etsmtl.ca">patrick.cardinal@etsmtl.ca</a></li>
-      <li>Thomas Thebaud: <a href="mailto:thomas.thebaud@polytechnique.edu">thomas.thebaud@polytechnique.edu</a></li>
-    </ul>
-    <p><strong><a href="{{ site.baseurl }}/assets/thesis/2027/%5BPhD%20Topic%20ETS-AMIAD%5D%20Multimodal%20Deepfake%20Detection.pdf">Download PDF</a></strong></p>
-  </article>
-
-  <article class="teaching-card">
-    <header class="teaching-card__header">
       <h2>Streaming Speech Anonymization</h2>
       <p class="teaching-card__meta">AMIAD · Palaiseau, France</p>
     </header>
@@ -52,6 +36,21 @@ I am currently looking for motivated students to join a range of research projec
       <li>Thomas Thebaud: <a href="mailto:thomas.thebaud@polytechnique.edu">thomas.thebaud@polytechnique.edu</a></li>
     </ul>
     <p><strong>Topic PDF:</strong> Coming soon.</p>
+  </article>
+
+  <article class="teaching-card">
+    <header class="teaching-card__header teaching-card__header--attributed">
+      <h2>Multimodal Deepfake Detection</h2>
+      <span class="teaching-card__status">attributed</span>
+      <p class="teaching-card__meta">ÉTS Montréal · Montréal, Canada</p>
+    </header>
+    <p>Develop methods that combine audio and visual cues to detect manipulated media and identify inconsistencies between speech and facial movements.</p>
+    <p><strong>Start date:</strong> As soon as possible.</p>
+    <p><strong>Points of contact:</strong></p>
+    <ul>
+      <li>Patrick Cardinal</li>
+      <li>Thomas Thebaud</li>
+    </ul>
   </article>
 </div>
 
@@ -73,19 +72,6 @@ I am currently looking for motivated students to join a range of research projec
 
   <article class="teaching-card">
     <header class="teaching-card__header">
-      <h2>Streaming Masking of Personal Information in Speech</h2>
-      <span class="teaching-card__status">attributed</span>
-    </header>
-    <p><strong>Description:</strong> Develop a speech anonymization system capable of detecting personal information and modifying speaker words with minimal latency. The system should maintain speech intelligibility while removing personally identifiable information.</p>
-    <p><strong>Point of contact:</strong></p>
-    <ul>
-      <li>Thomas Thebaud: <a href="mailto:thomas.thebaud@polytechnique.edu">thomas.thebaud@polytechnique.edu</a></li>
-    </ul>
-    <p><strong><a href="{{ site.baseurl }}/assets/internships/AMIAD_2027/%5BStage%20AMIAD%202027%5D%20%20Streaming_PII_removal.pdf">Download PDF</a></strong></p>
-  </article>
-
-  <article class="teaching-card">
-    <header class="teaching-card__header">
       <h2>Streaming Spoken Document Retrieval</h2>
     </header>
     <p><strong>Description:</strong> Build and evaluate a reproducible open-source prototype that retrieves relevant documents during live conversations by combining streaming speech recognition, conversation understanding, and automatic query generation. Integrate existing tools with a document search engine and an interface that updates the displayed documents as the conversation evolves, then assess relevance, end-to-end latency, and display stability.</p>
@@ -95,33 +81,6 @@ I am currently looking for motivated students to join a range of research projec
       <li>Thomas Thebaud: <a href="mailto:thomas.thebaud@polytechnique.edu">thomas.thebaud@polytechnique.edu</a></li>
     </ul>
     <p><strong><a href="{{ site.baseurl }}/assets/internships/AMIAD_2027/%5BStage%20AMIAD%202027%5DStreaming_Spoken_Document_Retrieval.pdf">Download PDF</a></strong></p>
-  </article>
-
-  <article class="teaching-card">
-    <header class="teaching-card__header">
-      <h2>Audio Deepfake Detection Using a Database of Signatures</h2>
-      <span class="teaching-card__status">attributed</span>
-    </header>
-    <p><strong>Description:</strong> Develop an audio deepfake detection system based on a generator signature database. The goal is to decouple the set of attacks considered by the detector from model training, allowing new generators to be added without retraining.</p>
-    <p><strong>Points of contact:</strong></p>
-    <ul>
-      <li>Thomas Thebaud: <a href="mailto:thomas.thebaud@polytechnique.edu">thomas.thebaud@polytechnique.edu</a></li>
-      <li>Raphaël Duroselle: <a href="mailto:raphael.duroselle-fourcade@polytechnique.edu">raphael.duroselle-fourcade@polytechnique.edu</a></li>
-    </ul>
-    <p><strong><a href="{{ site.baseurl }}/assets/internships/AMIAD_2027/%5BStage%20AMIAD%202027%5D%20Audio_deepfake_gallery.pdf">Download PDF</a></strong></p>
-  </article>
-
-  <article class="teaching-card">
-    <header class="teaching-card__header">
-      <h2>Audio Steganography and Watermarking: Robustness, Detection, and Identification</h2>
-      <span class="teaching-card__status">attributed</span>
-    </header>
-    <p><strong>Description:</strong> Implement and compare state-of-the-art open-source audio steganography solutions, then develop neural network-based solutions for detecting the presence of steganography/watermarking in audio recordings and identifying the method used.</p>
-    <p><strong>Point of contact:</strong></p>
-    <ul>
-      <li>Jean-François Bonastre: <a href="mailto:jean-francois.bonastre@polytechnique.edu">jean-francois.bonastre@polytechnique.edu</a></li>
-    </ul>
-    <p><strong><a href="{{ site.baseurl }}/assets/internships/AMIAD_2027/%5BStage%20AMIAD%202027%5D%20St%C3%A9ganographie_audio___D%C3%A9tection___Identification.pdf">Download PDF</a></strong></p>
   </article>
 
   <article class="teaching-card">
@@ -138,16 +97,52 @@ I am currently looking for motivated students to join a range of research projec
   </article>
 
   <article class="teaching-card">
-    <header class="teaching-card__header">
+    <header class="teaching-card__header teaching-card__header--attributed">
+      <h2>Streaming Masking of Personal Information in Speech</h2>
+      <span class="teaching-card__status">attributed</span>
+    </header>
+    <p><strong>Description:</strong> Develop a speech anonymization system capable of detecting personal information and modifying speaker words with minimal latency. The system should maintain speech intelligibility while removing personally identifiable information.</p>
+    <p><strong>Point of contact:</strong></p>
+    <ul>
+      <li>Thomas Thebaud</li>
+    </ul>
+  </article>
+
+  <article class="teaching-card">
+    <header class="teaching-card__header teaching-card__header--attributed">
+      <h2>Audio Deepfake Detection Using a Database of Signatures</h2>
+      <span class="teaching-card__status">attributed</span>
+    </header>
+    <p><strong>Description:</strong> Develop an audio deepfake detection system based on a generator signature database. The goal is to decouple the set of attacks considered by the detector from model training, allowing new generators to be added without retraining.</p>
+    <p><strong>Points of contact:</strong></p>
+    <ul>
+      <li>Thomas Thebaud</li>
+      <li>Raphaël Duroselle</li>
+    </ul>
+  </article>
+
+  <article class="teaching-card">
+    <header class="teaching-card__header teaching-card__header--attributed">
+      <h2>Audio Steganography and Watermarking: Robustness, Detection, and Identification</h2>
+      <span class="teaching-card__status">attributed</span>
+    </header>
+    <p><strong>Description:</strong> Implement and compare state-of-the-art open-source audio steganography solutions, then develop neural network-based solutions for detecting the presence of steganography/watermarking in audio recordings and identifying the method used.</p>
+    <p><strong>Point of contact:</strong></p>
+    <ul>
+      <li>Jean-François Bonastre</li>
+    </ul>
+  </article>
+
+  <article class="teaching-card">
+    <header class="teaching-card__header teaching-card__header--attributed">
       <h2>Legal Document Deepfake: Document Fraud Detection in the Judicial Field</h2>
       <span class="teaching-card__status">attributed</span>
     </header>
     <p><strong>Description:</strong> Study automatically falsified documents using generative tools in the legal context. Establish a state-of-the-art of techniques for detecting fake documents, including counterfeit documents and falsified authentic documents.</p>
     <p><strong>Point of contact:</strong></p>
     <ul>
-      <li>Christophe Servan: <a href="mailto:christophe.servan@polytechnique.edu">christophe.servan@polytechnique.edu</a></li>
+      <li>Christophe Servan</li>
     </ul>
-    <p><strong><a href="{{ site.baseurl }}/assets/internships/AMIAD_2027/%5BStage%20AMIAD%202027%5D%20Deepfake_documentaire_AMIAD_2027.pdf">Download PDF</a></strong></p>
   </article>
 
 </div>

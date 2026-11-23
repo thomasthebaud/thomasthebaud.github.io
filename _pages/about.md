@@ -35,9 +35,9 @@ I actively contribute to the speech research community:
 - Reviewer for ICASSP, LREC, Interspeech, IJCNN, CISS, SLT, SPSC, Speaker Odyssey, ACL, and ICLR, Computer Speech & Language Journal and Transactions on Audio, Speech, and Language Processing Journal, and grant reviewer for the Johns Hopkins Artificial Intelligence and Technology Collaboratory.
 
 <h2>Mentorship</h2>
-I have supervised and mentored multiple undergraduate, master’s, and Ph.D. students on research projects involving speech technologies. 
+I have supervised and mentored multiple undergraduate, master’s, and Ph.D. students on research projects involving speech and language technologies. 
 I am committed to supporting motivated and capable individuals in developing strong research skills, from problem formulation and experimental design to publication and scientific communication.
 
 I welcome national and international research collaborations and remain open to mentoring motivated students and early-career researchers. Students interested in future research opportunities can consult the [Join Us](/join/) page for current information and opportunities.
 
-(Updated September 2026)
+(Updated November 2026)
