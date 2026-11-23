@@ -13,10 +13,10 @@ I am currently looking for motivated students to join a range of research projec
 
 <div class="teaching-tabs" role="tablist" aria-label="Research opportunities">
   <button class="teaching-tabs__button active" id="internships-tab" type="button" role="tab" aria-selected="true" aria-controls="internships-opportunities" data-teaching-tab="internships-opportunities">
-    Masters Internships (7)
+    Masters Internships (3)
   </button>
   <button class="teaching-tabs__button" id="phd-tab" type="button" role="tab" aria-selected="false" aria-controls="phd-opportunities" tabindex="-1" data-teaching-tab="phd-opportunities">
-    PhD Positions (2)
+    PhD Positions (1)
   </button>
   <button class="teaching-tabs__button" id="research-experience-tab" type="button" role="tab" aria-selected="false" aria-controls="research-experience-opportunities" tabindex="-1" data-teaching-tab="research-experience-opportunities">
     Research Experiences (TBD)
@@ -27,6 +27,7 @@ I am currently looking for motivated students to join a range of research projec
   <article class="teaching-card">
     <header class="teaching-card__header">
       <h2>Multimodal Deepfake Detection</h2>
+      <span class="teaching-card__status">attributed</span>
       <p class="teaching-card__meta">ÉTS Montréal · Montréal, Canada</p>
     </header>
     <p>Develop methods that combine audio and visual cues to detect manipulated media and identify inconsistencies between speech and facial movements.</p>
@@ -73,6 +74,7 @@ I am currently looking for motivated students to join a range of research projec
   <article class="teaching-card">
     <header class="teaching-card__header">
       <h2>Streaming Masking of Personal Information in Speech</h2>
+      <span class="teaching-card__status">attributed</span>
     </header>
     <p><strong>Description:</strong> Develop a speech anonymization system capable of detecting personal information and modifying speaker words with minimal latency. The system should maintain speech intelligibility while removing personally identifiable information.</p>
     <p><strong>Point of contact:</strong></p>
@@ -98,6 +100,7 @@ I am currently looking for motivated students to join a range of research projec
   <article class="teaching-card">
     <header class="teaching-card__header">
       <h2>Audio Deepfake Detection Using a Database of Signatures</h2>
+      <span class="teaching-card__status">attributed</span>
     </header>
     <p><strong>Description:</strong> Develop an audio deepfake detection system based on a generator signature database. The goal is to decouple the set of attacks considered by the detector from model training, allowing new generators to be added without retraining.</p>
     <p><strong>Points of contact:</strong></p>
@@ -111,6 +114,7 @@ I am currently looking for motivated students to join a range of research projec
   <article class="teaching-card">
     <header class="teaching-card__header">
       <h2>Audio Steganography and Watermarking: Robustness, Detection, and Identification</h2>
+      <span class="teaching-card__status">attributed</span>
     </header>
     <p><strong>Description:</strong> Implement and compare state-of-the-art open-source audio steganography solutions, then develop neural network-based solutions for detecting the presence of steganography/watermarking in audio recordings and identifying the method used.</p>
     <p><strong>Point of contact:</strong></p>
@@ -136,6 +140,7 @@ I am currently looking for motivated students to join a range of research projec
   <article class="teaching-card">
     <header class="teaching-card__header">
       <h2>Legal Document Deepfake: Document Fraud Detection in the Judicial Field</h2>
+      <span class="teaching-card__status">attributed</span>
     </header>
     <p><strong>Description:</strong> Study automatically falsified documents using generative tools in the legal context. Establish a state-of-the-art of techniques for detecting fake documents, including counterfeit documents and falsified authentic documents.</p>
     <p><strong>Point of contact:</strong></p>
