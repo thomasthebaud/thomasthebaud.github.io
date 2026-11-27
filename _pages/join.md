@@ -29,7 +29,7 @@ I am currently looking for motivated students to join a range of research projec
       <h2>Streaming Speech Anonymization</h2>
       <p class="teaching-card__meta">AMIAD · Palaiseau, France</p>
     </header>
-    <p>Develop low-latency methods to protect speaker identity and sensitive spoken information in live audio streams while preserving speech intelligibility.</p>
+    <p>Develop low-latency methods to protect speaker identity and sensitive spoken information in live audio streams while preserving speech intelligibility. Topic given as an indication, no need to apply before March/April 2027</p>
     <p><strong>Start date:</strong> September 2027</p>
     <p><strong>Point of contact:</strong></p>
     <ul>
